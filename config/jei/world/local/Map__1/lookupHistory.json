@@ -1,0 +1,5 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"blocksyouneed_luna:antiblock_white"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"buildinggadgets2:gadget_destruction"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
