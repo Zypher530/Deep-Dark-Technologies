@@ -118,12 +118,14 @@
     "crafting_monitor": true,
     "part_name": true
   },
-  "extendedae_plus": {
-    "wt_locked": true,
-    "wt_frequency": true,
-    "wt_network_usable": true,
-    "wt_master_mode": true,
-    "wt_master_location": true
+  "productivebees": {
+    "bee": true,
+    "solitary_nest": true,
+    "canvas_beehive": true,
+    "bee_attributes": true
+  },
+  "modularrouters": {
+    "router": true
   },
   "mekanism": {
     "chemical": true,
@@ -148,6 +150,9 @@
   },
   "ae2labeledpatterns": {
     "pattern_provider_label": true
+  },
+  "modular_machinery_reborn": {
+    "machine_component_provider": true
   },
   "storagedrawers": {
     "display.stacklimit": true,
