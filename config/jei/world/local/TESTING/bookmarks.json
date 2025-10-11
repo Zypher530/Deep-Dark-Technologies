@@ -1,0 +1,8 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"blocksyouneed_luna:stripped_horizontal_post_mangrove"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"blocksyouneed_luna:labrat_antipanel_tile_duotone_propulsion"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"blocksyouneed_luna:light_blue_timber_door"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"blocksyouneed_luna:stripped_spruce_square_lattice"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"blocksyouneed_luna:crimson_square_lattice"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

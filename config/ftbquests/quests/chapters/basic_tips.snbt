@@ -1,0 +1,10 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "basic_tips"
+	group: ""
+	id: "021D93C62F3EB1BA"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+}

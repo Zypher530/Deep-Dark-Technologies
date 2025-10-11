@@ -1,0 +1,30 @@
+# Minecraft/Mod Loader
+.minecraft/
+logs/
+crash-reports/
+saves/
+screenshots/
+resourcepacks/
+shaderpacks/
+replay_videos/
+.mixin.out/
+
+# Mod files (don't commit the actual mod JARs)
+mods/*.jar
+!mods/README.md
+
+# User-specific
+options.txt
+optionsof.txt
+servers.dat
+usercache.json
+usernamecache.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.iml

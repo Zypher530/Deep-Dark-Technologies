@@ -1,0 +1,23 @@
+[debug]
+	#Show velocity vectors.
+	showVelocities = false
+	#Show all edges, even if they are simple constraints that are irrelevant for the network.
+	showAllEdges = false
+	#Automatically advance the graph. If disabled, you will have to manually advance the graph with the Play button in the GUI.
+	autoAdvanceGraph = true
+	#Settle the graph before showing it. This will make sure that all nodes are positioned before rendering starts.
+	settleGraph = true
+	#The number of steps to take when settling the graph initially. This is only used if 'settleGraph' is enabled.
+	# Default: 1000
+	# Range: 0 ~ 16384
+	settleInitialSteps = 1000
+	#The number of optional steps to take when settling the graph. This is only used if 'settleGraph' is enabled.
+	# Default: 2000
+	# Range: 0 ~ 16384
+	settleOptionalSteps = 2000
+
+[clientgraph]
+	#Show proxies in the network graph
+	showProxies = false
+	#Show recipe variables in the network graph
+	showRecipeVariables = true
