@@ -28,3 +28,12 @@ Thumbs.db
 .vscode/
 .idea/
 *.iml
+# Crash/Error logs
+hs_err_pid*.log
+
+
+# Dynamic resource cache
+dynamic-resource-pack-cache/
+
+# Local KubeJS files (if not needed for distribution)
+local/kubejs/
