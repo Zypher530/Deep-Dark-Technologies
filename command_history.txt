@@ -1,0 +1,3 @@
+/effect give majmaks minecraft:night_vision
+/effect give majmaks minecraft:night_vision infinite
+/effect give majmaks minecraft:night_vision infinite 1 true
