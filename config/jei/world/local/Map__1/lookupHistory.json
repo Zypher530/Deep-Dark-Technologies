@@ -1,5 +1,12 @@
 [
   {"version":1},
+  {"ingredient":{"id":"deeperdarker:sculk_leech_spawn_egg"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"exdeorum:sculk_core"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"exdeorum:end_cake"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"exdeorum:stone_pebble"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"scp_ultimate:servers_1"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"scp_ultimate:scp_049fragment"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"blocksyouneed_luna:sculk_blackstone_bricks"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"blocksyouneed_luna:antiblock_white"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"buildinggadgets2:gadget_destruction"},"type":"item_stack","bookmarkType":"INGREDIENT"}
 ]

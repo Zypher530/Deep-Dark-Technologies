@@ -1,0 +1,3 @@
+// Compost colors for extendedterminal. You may add your own colors, change existing ones, or remove colors that aren't needed.
+compat_processor, #414684
+printed_compat_processor, #6c9bff

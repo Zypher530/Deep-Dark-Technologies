@@ -1,4 +1,11 @@
 {
 	chapter.021D93C62F3EB1BA.title: "Basic tips"
 	chapter.075C8424D971EBC3.title: "Getting started"
+	quest.1514716B517B5567.quest_desc: [
+		"Hello,"
+		"this is the prometheum facility. A once promissing lab gone caput  for unknown reasons."
+		"Your goal here is to figure out what happened here."
+	]
+	quest.1514716B517B5567.quest_subtitle: "Where am I?"
+	quest.1514716B517B5567.title: "Welcome"
 }

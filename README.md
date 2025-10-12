@@ -126,33 +126,33 @@ FINAL: Launch Complex
 
 ## 🔧 Mod Highlights
 
-### Storage & Automation (35+ mods)
+### Storage & Automation 
 - **Applied Energistics 2** + 19 expansions - The facility's digital brain
 - **Integrated Dynamics** - Complex logic and automation
 - **Super Factory Manager** - Advanced item routing
 - **Sophisticated Storage** - Expandable storage solutions
 
-### Technology & Power (20+ mods)
+### Technology & Power 
 - **Mekanism** - Industrial processing and power generation
 - **Draconic Evolution** - End-game energy and tools
 - **Powah** - Efficient power systems
 - **Nuclear Science** - Nuclear reactor technology
 - **Flux Networks** - Wireless energy distribution
 
-### Quality of Life (25+ mods)
+### Quality of Life 
 - **JEI** - Recipe viewer with modified recipes
 - **FTB Quests** - Story and progression guide
 - **Building Gadgets 2** - Tools for facility expansion
 - **Mouse Tweaks** - Inventory management
 - **Jade** - Block information
 
-### Performance (10+ mods)
+### Performance 
 - **Sodium** - Rendering optimization
 - **ModernFix** - Performance improvements
 - **Ferrite Core** - Memory optimization
-- Runs smoothly even with 135+ mods!
+- Runs smoothly even with 200+ mods!
 
-**[View Complete Mod List](MODS.md)** (135 mods total)
+**[View Complete Mod List](MODS.md)**
 
 ---
 

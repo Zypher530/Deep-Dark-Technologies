@@ -6,5 +6,76 @@
 	id: "075C8424D971EBC3"
 	order_index: 0
 	quest_links: [ ]
-	quests: [ ]
+	quests: [
+		{
+			id: "1514716B517B5567"
+			rewards: [
+				{
+					id: "7114ACCF693B8862"
+					item: {
+						count: 1
+						id: "torchmaster:feral_flare_lantern"
+					}
+					type: "item"
+				}
+				{
+					id: "5C50F380414135D9"
+					item: {
+						count: 1
+						id: "minecraft:wooden_sword"
+					}
+					type: "item"
+				}
+				{
+					id: "4FEB0FD5F5F65297"
+					item: {
+						count: 1
+						id: "minecraft:leather_helmet"
+					}
+					type: "item"
+				}
+				{
+					id: "5AA6DCC683192DEF"
+					item: {
+						count: 1
+						id: "minecraft:leather_chestplate"
+					}
+					type: "item"
+				}
+				{
+					id: "153A51CF0AE2AF8E"
+					item: {
+						count: 1
+						id: "minecraft:leather_leggings"
+					}
+					type: "item"
+				}
+				{
+					id: "3CDCFDB6E7930A29"
+					item: {
+						count: 1
+						id: "minecraft:leather_boots"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "06B7488015C24164"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1514716B517B5567"]
+			id: "0AD59806E9C2240F"
+			tasks: [{
+				id: "44956E2211C5E2C9"
+				item: { count: 1, id: "exdeorum:sculk_core" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+	]
 }

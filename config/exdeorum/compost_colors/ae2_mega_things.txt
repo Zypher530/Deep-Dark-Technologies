@@ -1,0 +1,19 @@
+// Compost colors for ae2_mega_things. You may add your own colors, change existing ones, or remove colors that aren't needed.
+fluid_disk_drive_16k, #9e8d80
+fluid_disk_drive_16m, #9e4a39
+fluid_disk_drive_1k, #a07993
+fluid_disk_drive_1m, #b28244
+fluid_disk_drive_256k, #ae9361
+fluid_disk_drive_256m, #9d585a
+fluid_disk_drive_4k, #b88998
+fluid_disk_drive_4m, #a85e34
+fluid_disk_drive_64k, #938668
+fluid_disk_drive_64m, #b16b65
+fluid_disk_housing, #a2544b
+item_disk_drive_16m, #795a4e
+item_disk_drive_1m, #8d915a
+item_disk_drive_256m, #78686f
+item_disk_drive_4m, #836e4a
+item_disk_drive_64m, #8c7a7a
+mega_fluid_disk_housing, #6b3d28
+mega_item_disk_housing, #445546
