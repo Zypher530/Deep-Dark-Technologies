@@ -4,6 +4,11 @@
     "modId": "neoforge",
     "version": "neoforge-21.1.210"
   },
+  "[1.21.1] SecurityCraft v1.10.jar": {
+    "jarName": "[1.21.1] SecurityCraft v1.10.jar",
+    "modId": "securitycraft",
+    "version": "1.10"
+  },
   "AdvancedAE-1.5.2-1.21.1.jar": {
     "jarName": "AdvancedAE-1.5.2-1.21.1.jar",
     "modId": "advanced_ae",
@@ -149,6 +154,11 @@
     "modId": "mod_menu",
     "version": "1.1.20"
   },
+  "BetterF3-11.0.3-NeoForge-1.21.1.jar": {
+    "jarName": "BetterF3-11.0.3-NeoForge-1.21.1.jar",
+    "modId": "betterf3",
+    "version": "11.0.3"
+  },
   "blocksyouneed_luna-1.10.5-neoforge-1.21.1.jar": {
     "jarName": "blocksyouneed_luna-1.10.5-neoforge-1.21.1.jar",
     "modId": "blocksyouneed_luna",
@@ -163,6 +173,11 @@
     "jarName": "botanypots-neoforge-1.21.1-21.1.40.jar",
     "modId": "botanypots",
     "version": "21.1.40"
+  },
+  "botanytrees-neoforge-1.21.1-21.1.1.jar": {
+    "jarName": "botanytrees-neoforge-1.21.1-21.1.1.jar",
+    "modId": "botanytrees",
+    "version": "21.1.1"
   },
   "BrandonsCore-1.21.1-3.2.1.307.jar": {
     "jarName": "BrandonsCore-1.21.1-3.2.1.307.jar",
@@ -204,6 +219,11 @@
     "modId": "codechickenlib",
     "version": "4.6.1.524"
   },
+  "commandalias-4.0.jar": {
+    "jarName": "commandalias-4.0.jar",
+    "modId": "commandalias",
+    "version": "4.0"
+  },
   "commoncapabilities-1.21.1-neoforge-2.10.0.jar": {
     "jarName": "commoncapabilities-1.21.1-neoforge-2.10.0.jar",
     "modId": "commoncapabilities",
@@ -243,6 +263,11 @@
     "jarName": "craftingtweaks-neoforge-1.21.1-21.1.6.jar",
     "modId": "craftingtweaks",
     "version": "21.1.6"
+  },
+  "CraftTweaker-neoforge-1.21.1-21.0.34.jar": {
+    "jarName": "CraftTweaker-neoforge-1.21.1-21.0.34.jar",
+    "modId": "crafttweaker",
+    "version": "21.0.34"
   },
   "CrashAssistant-neoforge-1.20.6-1.21.4-1.10.10.jar": {
     "jarName": "CrashAssistant-neoforge-1.20.6-1.21.4-1.10.10.jar",
@@ -303,6 +328,11 @@
     "jarName": "dummmmmmy-1.21-2.0.9-neoforge.jar",
     "modId": "dummmmmmy",
     "version": "1.21-2.0.9"
+  },
+  "durabilitytooltip-1.1.6-neoforge-mc1.21.jar": {
+    "jarName": "durabilitytooltip-1.1.6-neoforge-mc1.21.jar",
+    "modId": "durabilitytooltip",
+    "version": "1.1.6"
   },
   "easy-villagers-neoforge-1.21.1-1.1.23.jar": {
     "jarName": "easy-villagers-neoforge-1.21.1-1.1.23.jar",
@@ -413,6 +443,11 @@
     "modId": "fastfurnace",
     "version": "9.0.1"
   },
+  "FastWorkbench-1.21.1-9.1.3.jar": {
+    "jarName": "FastWorkbench-1.21.1-9.1.3.jar",
+    "modId": "fastbench",
+    "version": "9.1.3"
+  },
   "ferritecore-7.0.2-neoforge.jar": {
     "jarName": "ferritecore-7.0.2-neoforge.jar",
     "modId": "ferritecore",
@@ -513,10 +548,10 @@
     "modId": "handcrafted",
     "version": "4.0.3"
   },
-  "hostile_neural_industrialization-1.0.7-1.21.1.jar": {
-    "jarName": "hostile_neural_industrialization-1.0.7-1.21.1.jar",
-    "modId": "hostile_neural_industrialization",
-    "version": "1.0.7-1.21.1"
+  "horror_blocks_and_items_for_maps-1.0.0-neoforge-1.21.1.jar": {
+    "jarName": "horror_blocks_and_items_for_maps-1.0.0-neoforge-1.21.1.jar",
+    "modId": "horror_blocks_and_items_for_maps",
+    "version": "1.0.0"
   },
   "HostileNeuralNetworks-1.21.1-6.3.0.jar": {
     "jarName": "HostileNeuralNetworks-1.21.1-6.3.0.jar",
@@ -573,6 +608,11 @@
     "modId": "iris",
     "version": "1.8.12-snapshot+mc1.21.1-local"
   },
+  "itemzoom-1.21-3.0.0.jar": {
+    "jarName": "itemzoom-1.21-3.0.0.jar",
+    "modId": "itemzoom",
+    "version": "3.0.0"
+  },
   "Jade-1.21.1-NeoForge-15.10.3.jar": {
     "jarName": "Jade-1.21.1-NeoForge-15.10.3.jar",
     "modId": "jade",
@@ -582,6 +622,11 @@
     "jarName": "JadeAddons-1.21.1-NeoForge-6.1.0.jar",
     "modId": "jadeaddons",
     "version": "6.1.0+neoforge"
+  },
+  "jeed-1.21-2.3.0.jar": {
+    "jarName": "jeed-1.21-2.3.0.jar",
+    "modId": "jeed",
+    "version": "1.21-2.3.0"
   },
   "jei-1.21.1-neoforge-19.25.0.322.jar": {
     "jarName": "jei-1.21.1-neoforge-19.25.0.322.jar",
@@ -645,11 +690,6 @@
     "jarName": "kubejspowah-1.3.2.jar",
     "modId": "kubejspowah",
     "version": "1.3.2"
-  },
-  "L_Ender\u0027s Cataclysm 1.21.1-3.16.jar": {
-    "jarName": "L_Ender\u0027s Cataclysm 1.21.1-3.16.jar",
-    "modId": "cataclysm",
-    "version": "3.16"
   },
   "ldlib-neoforge-1.21.1-1.0.35.a.jar": {
     "jarName": "ldlib-neoforge-1.21.1-1.0.35.a.jar",
@@ -886,6 +926,11 @@
     "modId": "prickle",
     "version": "21.1.11"
   },
+  "ProbeJS-7.5.1.jar": {
+    "jarName": "ProbeJS-7.5.1.jar",
+    "modId": "probejs",
+    "version": "7.5.1"
+  },
   "productivemetalworks-1.21.1-1.12.1.jar": {
     "jarName": "productivemetalworks-1.21.1-1.12.1.jar",
     "modId": "productivemetalworks",
@@ -920,11 +965,6 @@
     "jarName": "rhino-2101.2.7-build.77.jar",
     "modId": "rhino",
     "version": "2101.2.7-build.77"
-  },
-  "scp_ultimate-1.1.9-neoforge-1.21.1.jar": {
-    "jarName": "scp_ultimate-1.1.9-neoforge-1.21.1.jar",
-    "modId": "scp_ultimate",
-    "version": "1.1.9"
   },
   "Searchables-neoforge-1.21.1-1.0.2.jar": {
     "jarName": "Searchables-neoforge-1.21.1-1.0.2.jar",
@@ -1070,6 +1110,11 @@
     "jarName": "waystones-neoforge-1.21.1-21.1.23.jar",
     "modId": "waystones",
     "version": "21.1.23"
+  },
+  "worldedit-mod-7.3.8.jar": {
+    "jarName": "worldedit-mod-7.3.8.jar",
+    "modId": "worldedit",
+    "version": "7.3.8+6939-7d32b45"
   },
   "xycraft_core-0.7.53-all.jar": {
     "jarName": "xycraft_core-0.7.53-all.jar",

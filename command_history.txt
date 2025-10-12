@@ -1,10 +1,50 @@
-/effect give majmaks minecraft:night_vision
-/effect give majmaks minecraft:night_vision infinite
+/r
+/reload
+/r
+/addAlias r -> reload
+/r
+/reload
+/commandaliases reload
+/kjs reload
+/kjs reload server-scripts
+/kjs reload
+/kjs reload server-scripts
+/reload
+/kjs reload server-scripts
+/reload
+/kjs reload server-scripts
+/reload
+/kjs reload server-scripts
+/kill
+/kill @e
 /effect give majmaks minecraft:night_vision infinite 1 true
-/setworldspawn
-/restore @s c95b8b45-ca80-4fce-a25e-9aa1333ddd1b add
-/effect give majmaks minecraft:night_vision infinite 1 true
-/effect clear majmaks minecraft:night_vision infinite 1 true
-/effect clear
-/spawnpoint majmaks ~ ~ ~
-/effect give majmaks minecraft:night_vision infinite 1 true
+/fill -41 24 39
+/fill -41 24 39 -56 36 55 minecraft:deepslate
+/fill -55 37 24
+/fill -55 37 24 -14 17 58 minecraft:deepslate
+/fill -14 17 58 minecraft:deepslatea
+/fill -58 29 54
+/fill -58 29 54 -36 19 19 minecraft:deepslate
+/fill -10 86 7
+/fill -10 86 7 22 54 -25 minecraft:stone
+/fill -10 86 7 22 61 -26 minecraft:stone
+/fill -10 54 7
+/fill -10 54 7 22 61 -24 minecraft:stone
+/fill -10 54 -25 minecraft:stone
+/fill -10 54 -25 22 63 -25 minecraft:stone
+/gamerule doDaylightCycle false
+/gamerule doWeatherCycle false
+/weather clear
+/time set noon
+//wand
+//fill deepslate
+//fillr deepslate
+/kubejs reload server-scripts
+/reload
+/kjs reload server-scripts
+/reload
+/kjs reload startup-scripts
+/kjs reload client-scripts
+//wand
+//replace air
+/reload

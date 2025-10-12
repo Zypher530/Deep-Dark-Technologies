@@ -70,11 +70,22 @@
 			dependencies: ["1514716B517B5567"]
 			id: "0AD59806E9C2240F"
 			tasks: [{
-				id: "44956E2211C5E2C9"
-				item: { count: 1, id: "exdeorum:sculk_core" }
+				id: "082D417D782B7B00"
+				item: { count: 1, id: "deeperdarker:soul_dust" }
 				type: "item"
 			}]
-			x: 0.0d
+			x: -1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["1514716B517B5567"]
+			id: "6512335BFD8C907F"
+			tasks: [{
+				id: "2844E1FABD953F1C"
+				item: { count: 1, id: "deeperdarker:sculk_tendrils" }
+				type: "item"
+			}]
+			x: 1.0d
 			y: 2.0d
 		}
 	]

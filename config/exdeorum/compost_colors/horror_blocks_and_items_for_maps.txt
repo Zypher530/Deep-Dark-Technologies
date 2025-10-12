@@ -1,0 +1,13 @@
+// Compost colors for horror_blocks_and_items_for_maps. You may add your own colors, change existing ones, or remove colors that aren't needed.
+blood, #ff0000
+body_bag, #151814
+body_outline, #ffffff
+dead_body, #846ba4
+front_door, #5c3225
+front_door_unlocked, #5c3225
+fuse_box, #a09d94
+gun, #292929
+key, #c8be00
+missing_poster, #848484
+paper, #f2f2f2
+papers, #e3e3e3

@@ -119,6 +119,13 @@
   "gravestone": {
     "grave": true
   },
+  "securitycraft": {
+    "showowner": true,
+    "showmodules": true,
+    "entity_info": true,
+    "block_info": true,
+    "showcustomname": true
+  },
   "storagedrawers": {
     "display.stacklimit": true,
     "main": true,

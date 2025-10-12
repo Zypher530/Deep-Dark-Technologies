@@ -133,15 +133,25 @@
 		# Default: true
 		entity_heads: true
 		entity_icon: {
+			"scp_ultimate:chara": true
+			"deeperdarker:sludge": true
+			"scp_ultimate:scp_0962": true
+			"minecraft:trader_llama": true
+			"scp_ultimate:scp_2521": true
+			"scp_ultimate:scp_035_mob": true
+			"minecraft:pillager": true
+			"deeperdarker:shriek_worm": true
+			"scp_ultimate:scp_096": true
+			"deeperdarker:shattered": true
+			"minecraft:wandering_trader": true
+			"deeperdarker:sculk_leech": true
+			"scp_ultimate:scp_966": true
+			"scp_ultimate:scp_217_infected_class_d": true
+			"scp_ultimate:scp_0491": true
 			"scp_ultimate:scp_049": true
 			"scp_ultimate:scp_0961": true
-			"scp_ultimate:scp_096": true
-			"deeperdarker:sculk_leech": true
-			"scp_ultimate:scp_0962": true
-			"scp_ultimate:scp_0491": true
-			"minecraft:wandering_trader": true
-			"scp_ultimate:chara": true
-			"minecraft:trader_llama": true
+			"deeperdarker:stalker": true
+			"scp_ultimate:scp_173": true
 		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)
@@ -152,9 +162,7 @@
 		# Info hidden under minimap
 		# Default: ["ftbchunks:fps", "ftbchunks:game_time", "ftbchunks:real_time", "ftbchunks:debug"]
 		info_hidden: [
-			"ftbchunks:fps"
 			"ftbchunks:game_time"
-			"ftbchunks:real_time"
 			"ftbchunks:debug"
 		]
 		
@@ -169,7 +177,10 @@
 			"ftbchunks:real_time"
 			"ftbchunks:debug"
 		]
-		info_settings: { }
+		info_settings: {
+			"ftbchunks:zone": "JUST_CLAIMED"
+			"ftbchunks:real_time": "TWENTY_FOUR"
+		}
 		
 		# Entities in minimap will be larger
 		# Default: false
