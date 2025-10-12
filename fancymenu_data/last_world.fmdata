@@ -1,0 +1,7 @@
+type = last_world
+
+last_world {
+  is_server = false
+  world = C:/Users/majma/curseforge/minecraft/Instances/smt cewl/saves/Map (1)
+}
+

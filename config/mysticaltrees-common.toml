@@ -1,0 +1,3 @@
+[EtherSaplingOptions]
+	#Whether Saplings uses Ether-Based mechanics (§2True§f) or behaves like a normal Saplings (§4False§f)
+	useEtherMechanics = true

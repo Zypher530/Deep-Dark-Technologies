@@ -37,3 +37,19 @@ dynamic-resource-pack-cache/
 
 # Local KubeJS files (if not needed for distribution)
 local/kubejs/
+/essential/cache/
+/essential/cosmetic-cache/
+/essential/image-cache/
+/essential/libraries/
+/essential/loader/
+/essential/lwjgl3-natives/
+/essential/Essential (neoforge_1.21.1).jar
+/essential/Essential (neoforge_1.21.1).jar.meta
+/essential/essential-loader.properties
+/essential/screenshot-cache/
+/essential/screenshot-metadata/
+/local/ftbchunks/
+/local/crash_assistant/
+/config/ars_nouveau/search_index/
+/config/spark/tmp/
+/config/spark/tmp-client/

@@ -1,0 +1,3 @@
+// Compost colors for oritechthings. You may add your own colors, change existing ones, or remove colors that aren't needed.
+advanced_target_designator, #a5906c
+frame_placer, #c09b89

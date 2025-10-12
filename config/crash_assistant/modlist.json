@@ -1,0 +1,1079 @@
+{
+  "neoforge-21.1.210 (modloader)": {
+    "jarName": "neoforge-21.1.210 (modloader)",
+    "modId": "neoforge",
+    "version": "neoforge-21.1.210"
+  },
+  "AdvancedAE-1.5.2-1.21.1.jar": {
+    "jarName": "AdvancedAE-1.5.2-1.21.1.jar",
+    "modId": "advanced_ae",
+    "version": "1.5.2-1.21.1"
+  },
+  "AE2-Things-1.4.2-beta.jar": {
+    "jarName": "AE2-Things-1.4.2-beta.jar",
+    "modId": "ae2things",
+    "version": "1.4.2-beta"
+  },
+  "ae2ct-1.21.1-1.1.0.jar": {
+    "jarName": "ae2ct-1.21.1-1.1.0.jar",
+    "modId": "ae2ct",
+    "version": "1.21.1-1.1.0"
+  },
+  "ae2importexportcard-1.21-1.4.0.jar": {
+    "jarName": "ae2importexportcard-1.21-1.4.0.jar",
+    "modId": "ae2importexportcard",
+    "version": "1.21-1.4.0"
+  },
+  "ae2jeiintegration-1.2.0.jar": {
+    "jarName": "ae2jeiintegration-1.2.0.jar",
+    "modId": "ae2jeiintegration",
+    "version": "1.2.0"
+  },
+  "ae2labeledpatterns-1.0.5.jar": {
+    "jarName": "ae2labeledpatterns-1.0.5.jar",
+    "modId": "ae2labeledpatterns",
+    "version": "1.0.5"
+  },
+  "AE2MEGAThings-1.21.1-2.0.4.jar": {
+    "jarName": "AE2MEGAThings-1.21.1-2.0.4.jar",
+    "modId": "ae2_mega_things",
+    "version": "2.0.4"
+  },
+  "AE2NetworkAnalyzer-1.21-2.1.3-neoforge.jar": {
+    "jarName": "AE2NetworkAnalyzer-1.21-2.1.3-neoforge.jar",
+    "modId": "ae2netanalyser",
+    "version": "1.21-2.1.3-neoforge"
+  },
+  "ae2qolrecipes-neoforge-1.21.x-1.3.0.jar": {
+    "jarName": "ae2qolrecipes-neoforge-1.21.x-1.3.0.jar",
+    "modId": "ae2qolrecipes",
+    "version": "1.3.0"
+  },
+  "ae2wtlib-19.2.6.jar": {
+    "jarName": "ae2wtlib-19.2.6.jar",
+    "modId": "ae2wtlib",
+    "version": "19.2.6"
+  },
+  "ae_universal_press-1.5.1-neoforge-1.21.1.jar": {
+    "jarName": "ae_universal_press-1.5.1-neoforge-1.21.1.jar",
+    "modId": "ae_universal_press",
+    "version": "1.5.1"
+  },
+  "aeinfinitybooster-neoforge-1.21.1-1.0.0.52.jar": {
+    "jarName": "aeinfinitybooster-neoforge-1.21.1-1.0.0.52.jar",
+    "modId": "aeinfinitybooster",
+    "version": "1.21.1-1.0.0.52"
+  },
+  "allthecompressed-1.21.1-4.3.0.jar": {
+    "jarName": "allthecompressed-1.21.1-4.3.0.jar",
+    "modId": "allthecompressed",
+    "version": "4.3.0"
+  },
+  "alltheleaks-1.0.5+1.21.1-neoforge.jar": {
+    "jarName": "alltheleaks-1.0.5+1.21.1-neoforge.jar",
+    "modId": "alltheleaks",
+    "version": "1.0.5+1.21.1-neoforge"
+  },
+  "alltheores-3.1.8_neoforge_1.21.1.jar": {
+    "jarName": "alltheores-3.1.8_neoforge_1.21.1.jar",
+    "modId": "alltheores",
+    "version": "3.1.8"
+  },
+  "almostunified-neoforge-1.21.1-1.3.0.jar": {
+    "jarName": "almostunified-neoforge-1.21.1-1.3.0.jar",
+    "modId": "almostunified",
+    "version": "1.21.1-1.3.0"
+  },
+  "appleskin-neoforge-mc1.21-3.0.7.jar": {
+    "jarName": "appleskin-neoforge-mc1.21-3.0.7.jar",
+    "modId": "appleskin",
+    "version": "3.0.7+mc1.21"
+  },
+  "appliedenergistics2-19.2.17.jar": {
+    "jarName": "appliedenergistics2-19.2.17.jar",
+    "modId": "ae2",
+    "version": "19.2.17"
+  },
+  "AppliedFlux-1.21-2.1.3-neoforge.jar": {
+    "jarName": "AppliedFlux-1.21-2.1.3-neoforge.jar",
+    "modId": "appflux",
+    "version": "1.21-2.1.3-neoforge"
+  },
+  "architectury-13.0.8-neoforge.jar": {
+    "jarName": "architectury-13.0.8-neoforge.jar",
+    "modId": "architectury",
+    "version": "13.0.8"
+  },
+  "ars_additions-1.21.1-21.2.3.jar": {
+    "jarName": "ars_additions-1.21.1-21.2.3.jar",
+    "modId": "ars_additions",
+    "version": "1.21.1-21.2.3"
+  },
+  "ars_nouveau-1.21.1-5.10.5.jar": {
+    "jarName": "ars_nouveau-1.21.1-5.10.5.jar",
+    "modId": "ars_nouveau",
+    "version": "5.10.5"
+  },
+  "arseng-2.1.1-beta.jar": {
+    "jarName": "arseng-2.1.1-beta.jar",
+    "modId": "arseng",
+    "version": "2.1.1-beta"
+  },
+  "athena-neoforge-1.21-4.0.2.jar": {
+    "jarName": "athena-neoforge-1.21-4.0.2.jar",
+    "modId": "athena",
+    "version": "4.0.2"
+  },
+  "authme-neoforge-9.0.1+1.21.1.jar": {
+    "jarName": "authme-neoforge-9.0.1+1.21.1.jar",
+    "modId": "authme",
+    "version": "9.0.1+1.21.1"
+  },
+  "avaritialite-neoforge-1.21.1-1.10.7.jar": {
+    "jarName": "avaritialite-neoforge-1.21.1-1.10.7.jar",
+    "modId": "avaritia",
+    "version": "1.10.7"
+  },
+  "balm-neoforge-1.21.1-21.0.54.jar": {
+    "jarName": "balm-neoforge-1.21.1-21.0.54.jar",
+    "modId": "balm",
+    "version": "21.0.54"
+  },
+  "baubley-heart-canisters-1.21.1-1.2.3.jar": {
+    "jarName": "baubley-heart-canisters-1.21.1-1.2.3.jar",
+    "modId": "bhc",
+    "version": "1.21.1-1.2.3"
+  },
+  "better_modlist-1.1.20.jar": {
+    "jarName": "better_modlist-1.1.20.jar",
+    "modId": "mod_menu",
+    "version": "1.1.20"
+  },
+  "blocksyouneed_luna-1.10.5-neoforge-1.21.1.jar": {
+    "jarName": "blocksyouneed_luna-1.10.5-neoforge-1.21.1.jar",
+    "modId": "blocksyouneed_luna",
+    "version": "1.10.5"
+  },
+  "bookshelf-neoforge-1.21.1-21.1.69.jar": {
+    "jarName": "bookshelf-neoforge-1.21.1-21.1.69.jar",
+    "modId": "bookshelf",
+    "version": "21.1.69"
+  },
+  "botanypots-neoforge-1.21.1-21.1.40.jar": {
+    "jarName": "botanypots-neoforge-1.21.1-21.1.40.jar",
+    "modId": "botanypots",
+    "version": "21.1.40"
+  },
+  "BrandonsCore-1.21.1-3.2.1.307.jar": {
+    "jarName": "BrandonsCore-1.21.1-3.2.1.307.jar",
+    "modId": "brandonscore",
+    "version": "3.2.1.307"
+  },
+  "buildinggadgets2-1.3.9.jar": {
+    "jarName": "buildinggadgets2-1.3.9.jar",
+    "modId": "buildinggadgets2",
+    "version": "1.3.9"
+  },
+  "chipped-neoforge-1.21.1-4.0.2.jar": {
+    "jarName": "chipped-neoforge-1.21.1-4.0.2.jar",
+    "modId": "chipped",
+    "version": "4.0.2"
+  },
+  "chisel-neoforge-2.0.0+mc1.21.1.jar": {
+    "jarName": "chisel-neoforge-2.0.0+mc1.21.1.jar",
+    "modId": "chisel",
+    "version": "2.0.0+mc1.21.1"
+  },
+  "chunksending-1.21-2.8.jar": {
+    "jarName": "chunksending-1.21-2.8.jar",
+    "modId": "chunksending",
+    "version": "2.8"
+  },
+  "cloth-config-15.0.140-neoforge.jar": {
+    "jarName": "cloth-config-15.0.140-neoforge.jar",
+    "modId": "cloth_config",
+    "version": "15.0.140"
+  },
+  "Clumps-neoforge-1.21.1-19.0.0.1.jar": {
+    "jarName": "Clumps-neoforge-1.21.1-19.0.0.1.jar",
+    "modId": "clumps",
+    "version": "19.0.0.1"
+  },
+  "CodeChickenLib-1.21.1-4.6.1.524.jar": {
+    "jarName": "CodeChickenLib-1.21.1-4.6.1.524.jar",
+    "modId": "codechickenlib",
+    "version": "4.6.1.524"
+  },
+  "commoncapabilities-1.21.1-neoforge-2.10.0.jar": {
+    "jarName": "commoncapabilities-1.21.1-neoforge-2.10.0.jar",
+    "modId": "commoncapabilities",
+    "version": "2.10.0"
+  },
+  "compactmachines-neoforge-7.0.22.jar": {
+    "jarName": "compactmachines-neoforge-7.0.22.jar",
+    "modId": "compactmachines",
+    "version": "7.0.22"
+  },
+  "configuration-neoforge-1.21.1-3.1.1.jar": {
+    "jarName": "configuration-neoforge-1.21.1-3.1.1.jar",
+    "modId": "configuration",
+    "version": "3.1.1"
+  },
+  "configured-neoforge-1.21.1-2.6.1.jar": {
+    "jarName": "configured-neoforge-1.21.1-2.6.1.jar",
+    "modId": "configured",
+    "version": "2.6.1"
+  },
+  "connectivity-1.21.1-7.2.jar": {
+    "jarName": "connectivity-1.21.1-7.2.jar",
+    "modId": "connectivity",
+    "version": "7.2"
+  },
+  "Controlling-neoforge-1.21.1-19.0.5.jar": {
+    "jarName": "Controlling-neoforge-1.21.1-19.0.5.jar",
+    "modId": "controlling",
+    "version": "19.0.5"
+  },
+  "coroutil-neoforge-1.21.0-1.3.8.jar": {
+    "jarName": "coroutil-neoforge-1.21.0-1.3.8.jar",
+    "modId": "coroutil",
+    "version": "1.21.0-1.3.8"
+  },
+  "craftingtweaks-neoforge-1.21.1-21.1.6.jar": {
+    "jarName": "craftingtweaks-neoforge-1.21.1-21.1.6.jar",
+    "modId": "craftingtweaks",
+    "version": "21.1.6"
+  },
+  "CrashAssistant-neoforge-1.20.6-1.21.4-1.10.10.jar": {
+    "jarName": "CrashAssistant-neoforge-1.20.6-1.21.4-1.10.10.jar",
+    "modId": "crash_assistant",
+    "version": "1.10.10"
+  },
+  "CreativeCore_NEOFORGE_v2.13.13_mc1.21.1.jar": {
+    "jarName": "CreativeCore_NEOFORGE_v2.13.13_mc1.21.1.jar",
+    "modId": "creativecore",
+    "version": "2.13.13"
+  },
+  "cryonicconfig-neoforge-1.0.0+mc1.21.9.jar": {
+    "jarName": "cryonicconfig-neoforge-1.0.0+mc1.21.9.jar",
+    "modId": "cryonicconfig",
+    "version": "1.0.0+mc1.21.9"
+  },
+  "crystalix-1.6.2_neoforge_1.21.1.jar": {
+    "jarName": "crystalix-1.6.2_neoforge_1.21.1.jar",
+    "modId": "crystalix",
+    "version": "1.6.2"
+  },
+  "CTM-1.21-1.2.1+3.jar": {
+    "jarName": "CTM-1.21-1.2.1+3.jar",
+    "modId": "ctm",
+    "version": "1.21-1.2.1+3"
+  },
+  "cupboard-1.21-2.9.jar": {
+    "jarName": "cupboard-1.21-2.9.jar",
+    "modId": "cupboard",
+    "version": "2.9"
+  },
+  "curios-neoforge-9.5.1+1.21.1.jar": {
+    "jarName": "curios-neoforge-9.5.1+1.21.1.jar",
+    "modId": "curios",
+    "version": "9.5.1+1.21.1"
+  },
+  "cyclopscore-1.21.1-neoforge-1.27.0.jar": {
+    "jarName": "cyclopscore-1.21.1-neoforge-1.27.0.jar",
+    "modId": "cyclopscore",
+    "version": "1.27.0"
+  },
+  "deeperdarker-neoforge-1.21.1-1.3.5.jar": {
+    "jarName": "deeperdarker-neoforge-1.21.1-1.3.5.jar",
+    "modId": "deeperdarker",
+    "version": "1.3.5"
+  },
+  "DimStorage-1.21.1-9.1.0.jar": {
+    "jarName": "DimStorage-1.21.1-9.1.0.jar",
+    "modId": "dimstorage",
+    "version": "9.1.0"
+  },
+  "Draconic-Evolution-1.21.1-3.1.3.627.jar": {
+    "jarName": "Draconic-Evolution-1.21.1-3.1.3.627.jar",
+    "modId": "draconicevolution",
+    "version": "3.1.3.627"
+  },
+  "dummmmmmy-1.21-2.0.9-neoforge.jar": {
+    "jarName": "dummmmmmy-1.21-2.0.9-neoforge.jar",
+    "modId": "dummmmmmy",
+    "version": "1.21-2.0.9"
+  },
+  "easy-villagers-neoforge-1.21.1-1.1.23.jar": {
+    "jarName": "easy-villagers-neoforge-1.21.1-1.1.23.jar",
+    "modId": "easy_villagers",
+    "version": "1.21.1-1.1.23"
+  },
+  "EdivadLib-1.21-3.0.0.jar": {
+    "jarName": "EdivadLib-1.21-3.0.0.jar",
+    "modId": "edivadlib",
+    "version": "3.0.0"
+  },
+  "electrodynamics-1.21.1-0.10.1-7.jar": {
+    "jarName": "electrodynamics-1.21.1-0.10.1-7.jar",
+    "modId": "electrodynamics",
+    "version": "0.10.1-7"
+  },
+  "entangled-1.3.20-neoforge-mc1.21.jar": {
+    "jarName": "entangled-1.3.20-neoforge-mc1.21.jar",
+    "modId": "entangled",
+    "version": "1.3.20"
+  },
+  "entityculling-neoforge-1.9.0-mc1.21.1.jar": {
+    "jarName": "entityculling-neoforge-1.9.0-mc1.21.1.jar",
+    "modId": "entityculling",
+    "version": "1.9.0"
+  },
+  "EquipmentCompare-1.21.1-neoforge-1.3.13.jar": {
+    "jarName": "EquipmentCompare-1.21.1-neoforge-1.3.13.jar",
+    "modId": "equipmentcompare",
+    "version": "1.3.13"
+  },
+  "Essential_1-3-9-2_neoforge_1-21-1.jar": {
+    "jarName": "Essential_1-3-9-2_neoforge_1-21-1.jar",
+    "modId": "essential-container"
+  },
+  "EuphoriaPatcher-1.7.2-r5.6.1-neoforge.jar": {
+    "jarName": "EuphoriaPatcher-1.7.2-r5.6.1-neoforge.jar",
+    "modId": "euphoria_patcher",
+    "version": "1.7.2-r5.6.1-neoforge"
+  },
+  "excompressum-neoforge-1.21.1-21.1.10.jar": {
+    "jarName": "excompressum-neoforge-1.21.1-21.1.10.jar",
+    "modId": "excompressum",
+    "version": "21.1.10"
+  },
+  "exdeorum-3.9.jar": {
+    "jarName": "exdeorum-3.9.jar",
+    "modId": "exdeorum",
+    "version": "3.9"
+  },
+  "exmachinis-deorum-1.21.1-4.0.2.jar": {
+    "jarName": "exmachinis-deorum-1.21.1-4.0.2.jar",
+    "modId": "exmachinis",
+    "version": "4.0.2"
+  },
+  "experiencelib-1.21.1-1.1.1.jar": {
+    "jarName": "experiencelib-1.21.1-1.1.1.jar",
+    "modId": "experiencelib",
+    "version": "1.1.1"
+  },
+  "extended-industrialization-1.15.10-1.21.1.jar": {
+    "jarName": "extended-industrialization-1.15.10-1.21.1.jar",
+    "modId": "extended_industrialization",
+    "version": "1.15.10-1.21.1"
+  },
+  "ExtendedAE-1.21-2.2.23-neoforge.jar": {
+    "jarName": "ExtendedAE-1.21-2.2.23-neoforge.jar",
+    "modId": "extendedae",
+    "version": "1.21-2.2.23-neoforge"
+  },
+  "ExtendedTerminal-1.21.1-0.2.1.jar": {
+    "jarName": "ExtendedTerminal-1.21.1-0.2.1.jar",
+    "modId": "extendedterminal",
+    "version": "0.2.1"
+  },
+  "ExtremeSoundMuffler-3.51_NeoForge-1.21.jar": {
+    "jarName": "ExtremeSoundMuffler-3.51_NeoForge-1.21.jar",
+    "modId": "extremesoundmuffler",
+    "version": "3.51"
+  },
+  "factory_blocks-neoforge-1.4.0+mc1.21.1.jar": {
+    "jarName": "factory_blocks-neoforge-1.4.0+mc1.21.1.jar",
+    "modId": "factory_blocks",
+    "version": "1.4.0+mc1.21.1"
+  },
+  "fancymenu_neoforge_3.7.0_MC_1.21.1.jar": {
+    "jarName": "fancymenu_neoforge_3.7.0_MC_1.21.1.jar",
+    "modId": "fancymenu",
+    "version": "3.7.0"
+  },
+  "farsight-1.21.1-4.5.jar": {
+    "jarName": "farsight-1.21.1-4.5.jar",
+    "modId": "farsight_view",
+    "version": "4.5"
+  },
+  "fast-ip-ping-v1.0.7-mc1.21.1-neoforge.jar": {
+    "jarName": "fast-ip-ping-v1.0.7-mc1.21.1-neoforge.jar",
+    "modId": "fastipping",
+    "version": "1.0.7"
+  },
+  "fastasyncworldsave-1.21-2.6.jar": {
+    "jarName": "fastasyncworldsave-1.21-2.6.jar",
+    "modId": "fastasyncworldsave",
+    "version": "2.6"
+  },
+  "FastFurnace-1.21.1-9.0.1.jar": {
+    "jarName": "FastFurnace-1.21.1-9.0.1.jar",
+    "modId": "fastfurnace",
+    "version": "9.0.1"
+  },
+  "ferritecore-7.0.2-neoforge.jar": {
+    "jarName": "ferritecore-7.0.2-neoforge.jar",
+    "modId": "ferritecore",
+    "version": "7.0.2"
+  },
+  "FluxNetworks-1.21.1-8.0.0.jar": {
+    "jarName": "FluxNetworks-1.21.1-8.0.0.jar",
+    "modId": "fluxnetworks",
+    "version": "8.0.0"
+  },
+  "FramedBlocks-10.5.0.jar": {
+    "jarName": "FramedBlocks-10.5.0.jar",
+    "modId": "framedblocks",
+    "version": "10.5.0"
+  },
+  "framework-neoforge-1.21.1-0.9.6.jar": {
+    "jarName": "framework-neoforge-1.21.1-0.9.6.jar",
+    "modId": "framework",
+    "version": "0.9.6"
+  },
+  "ftb-chunks-neoforge-2101.1.11.jar": {
+    "jarName": "ftb-chunks-neoforge-2101.1.11.jar",
+    "modId": "ftbchunks",
+    "version": "2101.1.11"
+  },
+  "ftb-essentials-neoforge-2101.1.7.jar": {
+    "jarName": "ftb-essentials-neoforge-2101.1.7.jar",
+    "modId": "ftbessentials",
+    "version": "2101.1.7"
+  },
+  "ftb-jei-extras-21.1.7.jar": {
+    "jarName": "ftb-jei-extras-21.1.7.jar",
+    "modId": "ftbjeiextras",
+    "version": "21.1.7"
+  },
+  "ftb-library-neoforge-2101.1.21.jar": {
+    "jarName": "ftb-library-neoforge-2101.1.21.jar",
+    "modId": "ftblibrary",
+    "version": "2101.1.21"
+  },
+  "ftb-quests-neoforge-2101.1.16.jar": {
+    "jarName": "ftb-quests-neoforge-2101.1.16.jar",
+    "modId": "ftbquests",
+    "version": "2101.1.16"
+  },
+  "ftb-teams-neoforge-2101.1.4.jar": {
+    "jarName": "ftb-teams-neoforge-2101.1.4.jar",
+    "modId": "ftbteams",
+    "version": "2101.1.4"
+  },
+  "ftb-ultimine-neoforge-2101.1.10.jar": {
+    "jarName": "ftb-ultimine-neoforge-2101.1.10.jar",
+    "modId": "ftbultimine",
+    "version": "2101.1.10"
+  },
+  "ftb-xmod-compat-neoforge-21.1.6.jar": {
+    "jarName": "ftb-xmod-compat-neoforge-21.1.6.jar",
+    "modId": "ftbxmodcompat",
+    "version": "21.1.6"
+  },
+  "geckolib-neoforge-1.21.1-4.8.2.jar": {
+    "jarName": "geckolib-neoforge-1.21.1-4.8.2.jar",
+    "modId": "geckolib",
+    "version": "4.8.2"
+  },
+  "GeOre-1.21.1-6.1.2.jar": {
+    "jarName": "GeOre-1.21.1-6.1.2.jar",
+    "modId": "geore",
+    "version": "6.1.2"
+  },
+  "Glodium-1.21-2.2-neoforge.jar": {
+    "jarName": "Glodium-1.21-2.2-neoforge.jar",
+    "modId": "glodium",
+    "version": "1.21-2.2-neoforge"
+  },
+  "gpumemleakfix-1.21-1.8.jar": {
+    "jarName": "gpumemleakfix-1.21-1.8.jar",
+    "modId": "gpumemleakfix",
+    "version": "1.8"
+  },
+  "gravestone-neoforge-1.21.1-1.0.33.jar": {
+    "jarName": "gravestone-neoforge-1.21.1-1.0.33.jar",
+    "modId": "gravestone",
+    "version": "1.21.1-1.0.33"
+  },
+  "growthacceleratortiers-1.0.4_neoforge_1.21.1.jar": {
+    "jarName": "growthacceleratortiers-1.0.4_neoforge_1.21.1.jar",
+    "modId": "growthacceleratortiers",
+    "version": "1.0.4"
+  },
+  "guideme-21.1.14.jar": {
+    "jarName": "guideme-21.1.14.jar",
+    "modId": "guideme",
+    "version": "21.1.14"
+  },
+  "handcrafted-neoforge-1.21.1-4.0.3.jar": {
+    "jarName": "handcrafted-neoforge-1.21.1-4.0.3.jar",
+    "modId": "handcrafted",
+    "version": "4.0.3"
+  },
+  "hostile_neural_industrialization-1.0.7-1.21.1.jar": {
+    "jarName": "hostile_neural_industrialization-1.0.7-1.21.1.jar",
+    "modId": "hostile_neural_industrialization",
+    "version": "1.0.7-1.21.1"
+  },
+  "HostileNeuralNetworks-1.21.1-6.3.0.jar": {
+    "jarName": "HostileNeuralNetworks-1.21.1-6.3.0.jar",
+    "modId": "hostilenetworks",
+    "version": "6.3.0"
+  },
+  "Iceberg-1.21.1-neoforge-1.3.2.jar": {
+    "jarName": "Iceberg-1.21.1-neoforge-1.3.2.jar",
+    "modId": "iceberg",
+    "version": "1.3.2"
+  },
+  "industrialization_overdrive-1.10.3+1.21.1.jar": {
+    "jarName": "industrialization_overdrive-1.10.3+1.21.1.jar",
+    "modId": "industrialization_overdrive",
+    "version": "1.10.3+1.21.1"
+  },
+  "integratedcrafting-1.21.1-neoforge-1.3.1.jar": {
+    "jarName": "integratedcrafting-1.21.1-neoforge-1.3.1.jar",
+    "modId": "integratedcrafting",
+    "version": "1.3.1"
+  },
+  "integrateddynamics-1.21.1-neoforge-1.28.1.jar": {
+    "jarName": "integrateddynamics-1.21.1-neoforge-1.28.1.jar",
+    "modId": "integrateddynamics",
+    "version": "1.28.1"
+  },
+  "integratedmanager-1.0.7.jar": {
+    "jarName": "integratedmanager-1.0.7.jar",
+    "modId": "integratedmanager",
+    "version": "1.0.7"
+  },
+  "integratedmekanism-1.21.1-neoforge-1.0.1.jar": {
+    "jarName": "integratedmekanism-1.21.1-neoforge-1.0.1.jar",
+    "modId": "integratedmekanism",
+    "version": "1.0.1"
+  },
+  "integratedterminals-1.21.1-neoforge-1.6.16.jar": {
+    "jarName": "integratedterminals-1.21.1-neoforge-1.6.16.jar",
+    "modId": "integratedterminals",
+    "version": "1.6.16"
+  },
+  "integratedtunnels-1.21.1-neoforge-1.9.0.jar": {
+    "jarName": "integratedtunnels-1.21.1-neoforge-1.9.0.jar",
+    "modId": "integratedtunnels",
+    "version": "1.9.0"
+  },
+  "irequesting-0.1.2.jar": {
+    "jarName": "irequesting-0.1.2.jar",
+    "modId": "irequesting",
+    "version": "0.1.2"
+  },
+  "iris-neoforge-1.8.12+mc1.21.1.jar": {
+    "jarName": "iris-neoforge-1.8.12+mc1.21.1.jar",
+    "modId": "iris",
+    "version": "1.8.12-snapshot+mc1.21.1-local"
+  },
+  "Jade-1.21.1-NeoForge-15.10.3.jar": {
+    "jarName": "Jade-1.21.1-NeoForge-15.10.3.jar",
+    "modId": "jade",
+    "version": "15.10.3+neoforge"
+  },
+  "JadeAddons-1.21.1-NeoForge-6.1.0.jar": {
+    "jarName": "JadeAddons-1.21.1-NeoForge-6.1.0.jar",
+    "modId": "jadeaddons",
+    "version": "6.1.0+neoforge"
+  },
+  "jei-1.21.1-neoforge-19.25.0.322.jar": {
+    "jarName": "jei-1.21.1-neoforge-19.25.0.322.jar",
+    "modId": "jei",
+    "version": "19.25.0.322"
+  },
+  "justdirethings-1.5.5.jar": {
+    "jarName": "justdirethings-1.5.5.jar",
+    "modId": "justdirethings",
+    "version": "1.5.5"
+  },
+  "JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar": {
+    "jarName": "JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar",
+    "modId": "jeresources",
+    "version": "1.6.0.17"
+  },
+  "justzoom_neoforge_2.1.0_MC_1.21.1.jar": {
+    "jarName": "justzoom_neoforge_2.1.0_MC_1.21.1.jar",
+    "modId": "justzoom",
+    "version": "2.1.0"
+  },
+  "keybindbundles-1.3.1.jar": {
+    "jarName": "keybindbundles-1.3.1.jar",
+    "modId": "keybindbundles",
+    "version": "1.3.1"
+  },
+  "kjsbotanypots-1.3.0.jar": {
+    "jarName": "kjsbotanypots-1.3.0.jar",
+    "modId": "kjsbotanypots",
+    "version": "1.3.0"
+  },
+  "Kleiders Custom Renderer API 7.2.0 1.21.1.jar": {
+    "jarName": "Kleiders Custom Renderer API 7.2.0 1.21.1.jar",
+    "modId": "kleiders_custom_renderer",
+    "version": "7.2.0"
+  },
+  "konkrete_neoforge_1.9.9_MC_1.21.jar": {
+    "jarName": "konkrete_neoforge_1.9.9_MC_1.21.jar",
+    "modId": "konkrete",
+    "version": "1.9.9"
+  },
+  "kotlinforforge-5.10.0-all.jar": {
+    "jarName": "kotlinforforge-5.10.0-all.jar"
+  },
+  "kubejs-neoforge-2101.7.1-build.181.jar": {
+    "jarName": "kubejs-neoforge-2101.7.1-build.181.jar",
+    "modId": "kubejs",
+    "version": "2101.7.1-build.181"
+  },
+  "kubejsarsnouveau-1.3.jar": {
+    "jarName": "kubejsarsnouveau-1.3.jar",
+    "modId": "kubejsarsnouveau",
+    "version": "1.3"
+  },
+  "kubejsde-1.21.1-1.0.0.jar": {
+    "jarName": "kubejsde-1.21.1-1.0.0.jar",
+    "modId": "kubejsde",
+    "version": "1.0.0"
+  },
+  "kubejspowah-1.3.2.jar": {
+    "jarName": "kubejspowah-1.3.2.jar",
+    "modId": "kubejspowah",
+    "version": "1.3.2"
+  },
+  "L_Ender\u0027s Cataclysm 1.21.1-3.16.jar": {
+    "jarName": "L_Ender\u0027s Cataclysm 1.21.1-3.16.jar",
+    "modId": "cataclysm",
+    "version": "3.16"
+  },
+  "ldlib-neoforge-1.21.1-1.0.35.a.jar": {
+    "jarName": "ldlib-neoforge-1.21.1-1.0.35.a.jar",
+    "modId": "ldlib",
+    "version": "1.0.35.a"
+  },
+  "lionfishapi-2.6.jar": {
+    "jarName": "lionfishapi-2.6.jar",
+    "modId": "lionfishapi",
+    "version": "2.6"
+  },
+  "LittleFrames_NEOFORGE_v1.4.6_mc1.21.1.jar": {
+    "jarName": "LittleFrames_NEOFORGE_v1.4.6_mc1.21.1.jar",
+    "modId": "littleframes",
+    "version": "1.4.6"
+  },
+  "lootjs-neoforge-1.21.1-3.4.3.jar": {
+    "jarName": "lootjs-neoforge-1.21.1-3.4.3.jar",
+    "modId": "lootjs",
+    "version": "1.21.1-3.4.3"
+  },
+  "lootr-neoforge-1.21-1.10.35.91.jar": {
+    "jarName": "lootr-neoforge-1.21-1.10.35.91.jar",
+    "modId": "lootr",
+    "version": "1.21-1.10.35.91"
+  },
+  "luminax-1.3.1_neoforge_1.21.1.jar": {
+    "jarName": "luminax-1.3.1_neoforge_1.21.1.jar",
+    "modId": "luminax",
+    "version": "1.3.1"
+  },
+  "maxhealthfix-neoforge-1.21.1-21.1.4.jar": {
+    "jarName": "maxhealthfix-neoforge-1.21.1-21.1.4.jar",
+    "modId": "maxhealthfix",
+    "version": "21.1.4"
+  },
+  "mcw-bridges-3.1.1-mc1.21.1neoforge.jar": {
+    "jarName": "mcw-bridges-3.1.1-mc1.21.1neoforge.jar",
+    "modId": "mcwbridges",
+    "version": "3.1.1"
+  },
+  "mcw-doors-1.1.2-mc1.21.1neoforge.jar": {
+    "jarName": "mcw-doors-1.1.2-mc1.21.1neoforge.jar",
+    "modId": "mcwdoors",
+    "version": "1.1.2"
+  },
+  "mcw-fences-1.2.0-1.21.1neoforge.jar": {
+    "jarName": "mcw-fences-1.2.0-1.21.1neoforge.jar",
+    "modId": "mcwfences",
+    "version": "1.2.0"
+  },
+  "mcw-furniture-3.3.0-mc1.21.1neoforge.jar": {
+    "jarName": "mcw-furniture-3.3.0-mc1.21.1neoforge.jar",
+    "modId": "mcwfurnitures",
+    "version": "3.3.0"
+  },
+  "mcw-mcwwindows-2.4.1-mc1.21.1neoforge.jar": {
+    "jarName": "mcw-mcwwindows-2.4.1-mc1.21.1neoforge.jar",
+    "modId": "mcwwindows",
+    "version": "2.4.1"
+  },
+  "mcw-trapdoors-1.1.4-mc1.21.1neoforge.jar": {
+    "jarName": "mcw-trapdoors-1.1.4-mc1.21.1neoforge.jar",
+    "modId": "mcwtrpdoors",
+    "version": "1.1.4"
+  },
+  "megacells-4.10.1.jar": {
+    "jarName": "megacells-4.10.1.jar",
+    "modId": "megacells",
+    "version": "4.10.1"
+  },
+  "Mekanism-1.21.1-10.7.16.82.jar": {
+    "jarName": "Mekanism-1.21.1-10.7.16.82.jar",
+    "modId": "mekanism",
+    "version": "10.7.16"
+  },
+  "mekanism_weaponry-2.1.2.jar": {
+    "jarName": "mekanism_weaponry-2.1.2.jar",
+    "modId": "mekanism_weaponry",
+    "version": "2.1.2"
+  },
+  "MekanismGenerators-1.21.1-10.7.16.82.jar": {
+    "jarName": "MekanismGenerators-1.21.1-10.7.16.82.jar",
+    "modId": "mekanismgenerators",
+    "version": "10.7.16"
+  },
+  "MekanismTools-1.21.1-10.7.16.82.jar": {
+    "jarName": "MekanismTools-1.21.1-10.7.16.82.jar",
+    "modId": "mekanismtools",
+    "version": "10.7.16"
+  },
+  "melody_neoforge_1.0.10_MC_1.21.jar": {
+    "jarName": "melody_neoforge_1.0.10_MC_1.21.jar",
+    "modId": "melody",
+    "version": "1.0.10"
+  },
+  "memorysettings-1.21-5.9.jar": {
+    "jarName": "memorysettings-1.21-5.9.jar",
+    "modId": "memorysettings",
+    "version": "5.9"
+  },
+  "merequester-neoforge-1.21.1-1.4.1.jar": {
+    "jarName": "merequester-neoforge-1.21.1-1.4.1.jar",
+    "modId": "merequester",
+    "version": "1.21.1-1.4.1"
+  },
+  "mi-tweaks-1.8.14-1.21.1.jar": {
+    "jarName": "mi-tweaks-1.8.14-1.21.1.jar",
+    "modId": "mi_tweaks",
+    "version": "1.8.14-1.21.1"
+  },
+  "mob_grinding_utils-1.1.10+mc1.21.1.jar": {
+    "jarName": "mob_grinding_utils-1.1.10+mc1.21.1.jar",
+    "modId": "mob_grinding_utils",
+    "version": "1.1.10+mc1.21.1"
+  },
+  "Modern-Industrialization-2.3.14.jar": {
+    "jarName": "Modern-Industrialization-2.3.14.jar",
+    "modId": "modern_industrialization",
+    "version": "2.3.14"
+  },
+  "modernfix-neoforge-5.24.3+mc1.21.1.jar": {
+    "jarName": "modernfix-neoforge-5.24.3+mc1.21.1.jar",
+    "modId": "modernfix",
+    "version": "5.24.3+mc1.21.1"
+  },
+  "ModernUI-NeoForge-1.21.1-3.12.0.2-universal.jar": {
+    "jarName": "ModernUI-NeoForge-1.21.1-3.12.0.2-universal.jar",
+    "modId": "modernui",
+    "version": "3.12.0.2"
+  },
+  "modular-routers-13.2.3+mc1.21.1.jar": {
+    "jarName": "modular-routers-13.2.3+mc1.21.1.jar",
+    "modId": "modularrouters",
+    "version": "13.2.3"
+  },
+  "modular_machinery_reborn-1.21.1-2.5.1.jar": {
+    "jarName": "modular_machinery_reborn-1.21.1-2.5.1.jar",
+    "modId": "modular_machinery_reborn",
+    "version": "2.5.1"
+  },
+  "moonlight-1.21-2.24.0-neoforge.jar": {
+    "jarName": "moonlight-1.21-2.24.0-neoforge.jar",
+    "modId": "moonlight",
+    "version": "1.21-2.24.0"
+  },
+  "MouseTweaks-neoforge-mc1.21-2.26.1.jar": {
+    "jarName": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+    "modId": "mousetweaks",
+    "version": "2.26.1"
+  },
+  "mysticaltrees-0.0.4.jar": {
+    "jarName": "mysticaltrees-0.0.4.jar",
+    "modId": "mysticaltrees",
+    "version": "0.0.4"
+  },
+  "NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar": {
+    "jarName": "NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar",
+    "modId": "nochatreports",
+    "version": "1.21.1-v2.9.1"
+  },
+  "nuclearscience-1.21.1-0.7.1-7.jar": {
+    "jarName": "nuclearscience-1.21.1-0.7.1-7.jar",
+    "modId": "nuclearscience",
+    "version": "0.7.1-7"
+  },
+  "OctoLib-NEOFORGE-0.6.0.4+1.21.jar": {
+    "jarName": "OctoLib-NEOFORGE-0.6.0.4+1.21.jar",
+    "modId": "octolib",
+    "version": "0.6.0.4"
+  },
+  "olddraconicmodels-1.0.1.jar": {
+    "jarName": "olddraconicmodels-1.0.1.jar",
+    "modId": "olddraconicmodels",
+    "version": "1.0.1"
+  },
+  "oritech-neoforge-1.21.1-0.18.2.jar": {
+    "jarName": "oritech-neoforge-1.21.1-0.18.2.jar",
+    "modId": "oritech",
+    "version": "0.18.2"
+  },
+  "oritechthings-0.0.27.jar": {
+    "jarName": "oritechthings-0.0.27.jar",
+    "modId": "oritechthings",
+    "version": "0.0.27"
+  },
+  "owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar": {
+    "jarName": "owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
+    "modId": "owo",
+    "version": "0.12.15.5-beta.1+1.21"
+  },
+  "Patchouli-1.21.1-92-NEOFORGE.jar": {
+    "jarName": "Patchouli-1.21.1-92-NEOFORGE.jar",
+    "modId": "patchouli",
+    "version": "1.21.1-92-NEOFORGE"
+  },
+  "pipez-neoforge-1.21.1-1.2.19.jar": {
+    "jarName": "pipez-neoforge-1.21.1-1.2.19.jar",
+    "modId": "pipez",
+    "version": "1.21.1-1.2.19"
+  },
+  "Placebo-1.21.1-9.9.1.jar": {
+    "jarName": "Placebo-1.21.1-9.9.1.jar",
+    "modId": "placebo",
+    "version": "9.9.1"
+  },
+  "polyeng-0.4.1.jar": {
+    "jarName": "polyeng-0.4.1.jar",
+    "modId": "polyeng",
+    "version": "0.4.1"
+  },
+  "polymorph-neoforge-1.1.0+1.21.1.jar": {
+    "jarName": "polymorph-neoforge-1.1.0+1.21.1.jar",
+    "modId": "polymorph",
+    "version": "1.1.0+1.21.1"
+  },
+  "PortableCraftingTable-neoforge-1.21.1-3.2.6.jar": {
+    "jarName": "PortableCraftingTable-neoforge-1.21.1-3.2.6.jar",
+    "modId": "portablecraftingtable",
+    "version": "3.2.6"
+  },
+  "potentials-neoforge-1.21-0.7.1.jar": {
+    "jarName": "potentials-neoforge-1.21-0.7.1.jar",
+    "modId": "potentials",
+    "version": "0.7.1"
+  },
+  "Powah-6.2.6.jar": {
+    "jarName": "Powah-6.2.6.jar",
+    "modId": "powah",
+    "version": "6.2.6"
+  },
+  "prickle-neoforge-1.21.1-21.1.11.jar": {
+    "jarName": "prickle-neoforge-1.21.1-21.1.11.jar",
+    "modId": "prickle",
+    "version": "21.1.11"
+  },
+  "productivemetalworks-1.21.1-1.12.1.jar": {
+    "jarName": "productivemetalworks-1.21.1-1.12.1.jar",
+    "modId": "productivemetalworks",
+    "version": "1.21.1-1.12.1"
+  },
+  "radium-mc1.21.1-0.13.1+git.4994e83.jar": {
+    "jarName": "radium-mc1.21.1-0.13.1+git.4994e83.jar",
+    "modId": "radium",
+    "version": "0.13.1+git.4994e83"
+  },
+  "reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar": {
+    "jarName": "reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar",
+    "modId": "reeses_sodium_options",
+    "version": "1.8.3+mc1.21.4"
+  },
+  "refurbished_furniture-neoforge-1.21.1-1.0.16.jar": {
+    "jarName": "refurbished_furniture-neoforge-1.21.1-1.0.16.jar",
+    "modId": "refurbished_furniture",
+    "version": "1.0.16"
+  },
+  "relics-1.21.1-0.10.7.6.jar": {
+    "jarName": "relics-1.21.1-0.10.7.6.jar",
+    "modId": "relics",
+    "version": "0.10.7.6"
+  },
+  "resourcefullib-neoforge-1.21-3.0.12.jar": {
+    "jarName": "resourcefullib-neoforge-1.21-3.0.12.jar",
+    "modId": "resourcefullib",
+    "version": "3.0.12"
+  },
+  "rhino-2101.2.7-build.77.jar": {
+    "jarName": "rhino-2101.2.7-build.77.jar",
+    "modId": "rhino",
+    "version": "2101.2.7-build.77"
+  },
+  "scp_ultimate-1.1.9-neoforge-1.21.1.jar": {
+    "jarName": "scp_ultimate-1.1.9-neoforge-1.21.1.jar",
+    "modId": "scp_ultimate",
+    "version": "1.1.9"
+  },
+  "Searchables-neoforge-1.21.1-1.0.2.jar": {
+    "jarName": "Searchables-neoforge-1.21.1-1.0.2.jar",
+    "modId": "searchables",
+    "version": "1.0.2"
+  },
+  "simplylight-1.5.3+1.21.1-b4.jar": {
+    "jarName": "simplylight-1.5.3+1.21.1-b4.jar",
+    "modId": "simplylight",
+    "version": "1.5.3"
+  },
+  "smoothchunk-1.21-4.1.jar": {
+    "jarName": "smoothchunk-1.21-4.1.jar",
+    "modId": "smoothchunk",
+    "version": "4.1"
+  },
+  "sodium-neoforge-0.6.13+mc1.21.1.jar": {
+    "jarName": "sodium-neoforge-0.6.13+mc1.21.1.jar",
+    "modId": "sodium",
+    "version": "0.6.13+mc1.21.1"
+  },
+  "sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar": {
+    "jarName": "sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
+    "modId": "sodiumdynamiclights",
+    "version": "1.0.9"
+  },
+  "sodiumextras-neoforge-1.0.8-1.21.1.jar": {
+    "jarName": "sodiumextras-neoforge-1.0.8-1.21.1.jar",
+    "modId": "sodiumextras",
+    "version": "1.0.7"
+  },
+  "sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar": {
+    "jarName": "sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
+    "modId": "sodiumoptionsapi",
+    "version": "1.0.10"
+  },
+  "sodiumoptionsmodcompat-neoforge-1.0.0-1.21.1.jar": {
+    "jarName": "sodiumoptionsmodcompat-neoforge-1.0.0-1.21.1.jar",
+    "modId": "sodiumoptionsmodcompat",
+    "version": "1.0.0"
+  },
+  "sophisticatedbackpacks-1.21.1-3.25.9.1390.jar": {
+    "jarName": "sophisticatedbackpacks-1.21.1-3.25.9.1390.jar",
+    "modId": "sophisticatedbackpacks",
+    "version": "3.25.9"
+  },
+  "sophisticatedcore-1.21.1-1.3.87.1229.jar": {
+    "jarName": "sophisticatedcore-1.21.1-1.3.87.1229.jar",
+    "modId": "sophisticatedcore",
+    "version": "1.3.87"
+  },
+  "sophisticatedstorage-1.21.1-1.5.11.1340.jar": {
+    "jarName": "sophisticatedstorage-1.21.1-1.5.11.1340.jar",
+    "modId": "sophisticatedstorage",
+    "version": "1.5.11"
+  },
+  "sound-physics-remastered-neoforge-1.21.1-1.5.1.jar": {
+    "jarName": "sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+    "modId": "sound_physics_remastered",
+    "version": "1.21.1-1.5.1"
+  },
+  "spark-1.10.124-neoforge.jar": {
+    "jarName": "spark-1.10.124-neoforge.jar",
+    "modId": "spark",
+    "version": "1.10.124"
+  },
+  "stellaris-1.21-neoforge-1.4.11.jar": {
+    "jarName": "stellaris-1.21-neoforge-1.4.11.jar",
+    "modId": "stellaris",
+    "version": "1.4.11"
+  },
+  "StorageDrawers-neoforge-1.21.1-13.11.4.jar": {
+    "jarName": "StorageDrawers-neoforge-1.21.1-13.11.4.jar",
+    "modId": "storagedrawers",
+    "version": "13.11.4"
+  },
+  "Super Factory Manager (SFM)-MC1.21.1-4.26.0.jar": {
+    "jarName": "Super Factory Manager (SFM)-MC1.21.1-4.26.0.jar",
+    "modId": "sfm",
+    "version": "4.26.0"
+  },
+  "supermartijn642configlib-1.1.8-neoforge-mc1.21.jar": {
+    "jarName": "supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
+    "modId": "supermartijn642configlib",
+    "version": "1.1.8"
+  },
+  "supermartijn642corelib-1.1.18a-neoforge-mc1.21.jar": {
+    "jarName": "supermartijn642corelib-1.1.18a-neoforge-mc1.21.jar",
+    "modId": "supermartijn642corelib",
+    "version": "1.1.18+a"
+  },
+  "supplementaries-1.21-3.4.16-neoforge.jar": {
+    "jarName": "supplementaries-1.21-3.4.16-neoforge.jar",
+    "modId": "supplementaries",
+    "version": "1.21-3.4.16"
+  },
+  "tesseract-api-neoforge-1.9.2-1.21.1.jar": {
+    "jarName": "tesseract-api-neoforge-1.9.2-1.21.1.jar",
+    "modId": "tesseract_api",
+    "version": "1.9.2-1.21.1"
+  },
+  "ThirstWasTaken-1.21.1-2.1.5.jar": {
+    "jarName": "ThirstWasTaken-1.21.1-2.1.5.jar",
+    "modId": "thirst",
+    "version": "1.21.1-2.1.5"
+  },
+  "titanium-1.21-4.0.37.jar": {
+    "jarName": "titanium-1.21-4.0.37.jar",
+    "modId": "titanium",
+    "version": "4.0.37"
+  },
+  "torchmaster-neoforge-1.21.1-21.1.5-beta.jar": {
+    "jarName": "torchmaster-neoforge-1.21.1-21.1.5-beta.jar",
+    "modId": "torchmaster",
+    "version": "21.1.5-beta"
+  },
+  "transfer_labels-0.1.7.jar": {
+    "jarName": "transfer_labels-0.1.7.jar",
+    "modId": "transfer_labels",
+    "version": "0.1.7"
+  },
+  "trashcans-1.0.18c-neoforge-mc1.21.jar": {
+    "jarName": "trashcans-1.0.18c-neoforge-mc1.21.jar",
+    "modId": "trashcans",
+    "version": "1.0.18+c"
+  },
+  "uncooldowned-1.0.0-neoforge-1.21.1.jar": {
+    "jarName": "uncooldowned-1.0.0-neoforge-1.21.1.jar",
+    "modId": "uncooldowned",
+    "version": "1.0.0"
+  },
+  "voltaic-1.21.1-1.0.0-7.jar": {
+    "jarName": "voltaic-1.21.1-1.0.0-7.jar",
+    "modId": "voltaic",
+    "version": "1.0.0-7"
+  },
+  "watermedia-2.1.36.jar": {
+    "jarName": "watermedia-2.1.36.jar",
+    "modId": "watermedia",
+    "version": "2.1.36"
+  },
+  "waystones-neoforge-1.21.1-21.1.23.jar": {
+    "jarName": "waystones-neoforge-1.21.1-21.1.23.jar",
+    "modId": "waystones",
+    "version": "21.1.23"
+  },
+  "xycraft_core-0.7.53-all.jar": {
+    "jarName": "xycraft_core-0.7.53-all.jar",
+    "modId": "xycraft_core",
+    "version": "0.7.53"
+  }
+}

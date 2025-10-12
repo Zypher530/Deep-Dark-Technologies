@@ -1,0 +1,3 @@
+// Compost colors for modular_machinery_reborn. You may add your own colors, change existing ones, or remove colors that aren't needed.
+blueprint, #d4c2b9
+modularium, #8d8d8d

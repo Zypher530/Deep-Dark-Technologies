@@ -1,0 +1,5 @@
+// Compost colors for mekanism_weaponry. You may add your own colors, change existing ones, or remove colors that aren't needed.
+magnetic_circuit, #fcf0ee
+plasma_circuit, #e8faff
+scope, #8a8c8a
+steel_rod, #ffffff
