@@ -133,26 +133,27 @@
 		# Default: true
 		entity_heads: true
 		entity_icon: {
-			"minecraft:pillager": true
-			"deeperdarker:stalker": true
-			"minecraft:wandering_trader": true
-			"deeperdarker:shattered": true
 			"scp_ultimate:scp_2521": true
-			"scp_ultimate:scp_0962": true
-			"scp_ultimate:scp_0961": true
-			"scp_ultimate:scp_049": true
-			"deeperdarker:sludge": true
-			"minecraft:trader_llama": true
-			"scp_ultimate:scp_173": true
 			"scp_ultimate:chara": true
-			"scp_ultimate:scp_217_infected_class_d": true
-			"scp_ultimate:scp_966": true
-			"scp_ultimate:scp_096": true
-			"deeperdarker:sculk_leech": true
-			"deeperdarker:sculk_snapper": true
+			"deeperdarker:shattered": true
 			"scp_ultimate:scp_035_mob": true
-			"deeperdarker:shriek_worm": true
 			"scp_ultimate:scp_0491": true
+			"ars_nouveau:starbuncle": true
+			"deeperdarker:sculk_leech": true
+			"scp_ultimate:scp_173": true
+			"deeperdarker:sculk_snapper": true
+			"scp_ultimate:scp_049": true
+			"minecraft:pillager": true
+			"deeperdarker:shriek_worm": true
+			"scp_ultimate:scp_966": true
+			"minecraft:wandering_trader": true
+			"deeperdarker:stalker": true
+			"scp_ultimate:scp_0962": true
+			"deeperdarker:sludge": true
+			"scp_ultimate:scp_096": true
+			"minecraft:trader_llama": true
+			"scp_ultimate:scp_0961": true
+			"scp_ultimate:scp_217_infected_class_d": true
 		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)

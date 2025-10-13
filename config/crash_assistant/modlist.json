@@ -69,6 +69,11 @@
     "modId": "aeinfinitybooster",
     "version": "1.21.1-1.0.0.52"
   },
+  "AlltheCompatibility-1.21.1-(v.3.9.1).jar": {
+    "jarName": "AlltheCompatibility-1.21.1-(v.3.9.1).jar",
+    "modId": "allthecompatibility",
+    "version": "3.9.1"
+  },
   "allthecompressed-1.21.1-4.3.0.jar": {
     "jarName": "allthecompressed-1.21.1-4.3.0.jar",
     "modId": "allthecompressed",
@@ -372,11 +377,6 @@
     "jarName": "EuphoriaPatcher-1.7.2-r5.6.1-neoforge.jar",
     "modId": "euphoria_patcher",
     "version": "1.7.2-r5.6.1-neoforge"
-  },
-  "excompressum-neoforge-1.21.1-21.1.10.jar": {
-    "jarName": "excompressum-neoforge-1.21.1-21.1.10.jar",
-    "modId": "excompressum",
-    "version": "21.1.10"
   },
   "exdeorum-3.9.jar": {
     "jarName": "exdeorum-3.9.jar",

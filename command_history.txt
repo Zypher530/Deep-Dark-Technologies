@@ -1,0 +1,24 @@
+/place structure minecraft:ancient_city
+//replace air
+/place structure minecraft:ancient_city
+/undo
+//replace air
+/place structure minecraft:ancient_city -109 -54 55
+//replace air
+/place structure minecraft:ancient_city -25 -55 61
+//replace #existing deepslate
+//replace deepslate
+//replace air deepslate
+//replace deepslate air
+//replace air
+//replace air deepslate ====
+//replace air deepslate
+//replace ##* deepslate
+//replace * deepslate
+//replace #existing deepslate
+//replace air deepslate
+//replace deepslate deepslate_ti
+//replace deepslate deepslate_tiles
+//wand
+//replace air ars_nouveau:sky_block
+//replace stone ars_nouveau:sky_block

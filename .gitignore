@@ -249,3 +249,19 @@ mods/*.jar
 dynamic-data-pack-cache/
 dynamic-resource-pack-cache/
 spark-modernfix/tmp/about.txt
+
+# ================
+# WINDOWS EVENT LOGS
+# ================
+# Ignore native Windows event log exports and tools that produce .evtx/.evt files.
+# Many export filenames include timestamps or numeric suffixes, so match common variants.
+*.evtx
+*.evt
+*event*.evtx
+*event*.evt
+*log*.evtx
+*log*.evt
+**/Logs/*.evtx
+**/Logs/*.evt
+config/ars_nouveau/search_index/
+config/jei/world/local/
