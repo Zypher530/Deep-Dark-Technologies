@@ -1,4 +1,4 @@
 [
   {"version":2},
-  {"ingredient":{"id":"blocksyouneed_luna:tar"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+  {"ingredient":{"id":"stellaris:coal_generator"},"type":"item_stack","bookmarkType":"INGREDIENT"}
 ]

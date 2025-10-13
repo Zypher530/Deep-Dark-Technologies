@@ -1,88 +1,251 @@
-# Minecraft/Mod Loader
-.minecraft/
-logs/
-crash-reports/
+# ===================================
+# Deep Dark Technologies .gitignore
+# Minecraft 1.21.1 NeoForge Modpack
+# ===================================
+
+# ===================
+# MINECRAFT INSTANCE
+# ===================
+
+# World saves - Usually want to ignore player worlds
 saves/
-screenshots/
-resourcepacks/
-shaderpacks/
-replay_videos/
-.mixin.out/
+# If you want to include a default world, use: !saves/default_world/
 
-# Mod files (don't commit the actual mod JARs)
-mods/*.jar
-!mods/README.md
-
-# User-specific
-options.txt
-optionsof.txt
-servers.dat
+# Server files
+server.properties
+eula.txt
+banned-ips.json
+banned-players.json
+ops.json
+whitelist.json
 usercache.json
 usernamecache.json
 
-# OS
+# Server directories
+world/
+world_nether/
+world_the_end/
+
+# Crash reports (optional - include for debugging)
+# crash-reports/
+
+# Logs
+logs/
+*.log
+latest.log
+
+# ==================
+# MOD CONFIGURATIONS
+# ==================
+
+# Local config overrides
+local/
+localmod/
+
+# Options and keybinds (player-specific)
+options.txt
+optionsof.txt
+optionsshaders.txt
+optionslc.txt
+keybinds.txt
+
+# Shader packs (too large, users should download separately)
+shaderpacks/*
+# Keep the folder structure but not contents
+!shaderpacks/.gitkeep
+
+# Resource packs (same as shaders)
+resourcepacks/*
+!resourcepacks/.gitkeep
+
+# ==================
+# DEVELOPMENT FILES
+# ==================
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+.vscode/
+.gradle/
+*.code-workspace
+.probe
+
+# Eclipse
+bin/
+eclipse/
+
+# IntelliJ
+out/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# NetBeans
+nbproject/
+
+# ===================
+# BUILD & TEMP FILES
+# ===================
+
+# Gradle
+.gradle/
+build/
+gradle-app.setting
+!gradle-wrapper.jar
+!gradle-wrapper.properties
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Runtime directories
+run/
+runs/
+
+# Temp files
+*.tmp
+*.bak
+*.swp
+*~
 .DS_Store
 Thumbs.db
 
-# IDEs
-.vscode/
-.idea/
-*.iml
-# Crash/Error logs
-hs_err_pid*.log
+# =============
+# MODPACK FILES
+# =============
 
+# Downloaded mods (track the list, not the JARs)
+# Uncomment if you want git to track mod JARs:
+# !mods/*.jar
 
-# Dynamic resource cache
-dynamic-resource-pack-cache/
+# Mod cache
+asm/
+cache/
+libraries/
 
-# Local KubeJS files (if not needed for distribution)
-local/kubejs/
-/essential/cache/
-/essential/cosmetic-cache/
-/essential/image-cache/
-/essential/libraries/
-/essential/loader/
-/essential/lwjgl3-natives/
-/essential/Essential (neoforge_1.21.1).jar
-/essential/Essential (neoforge_1.21.1).jar.meta
-/essential/essential-loader.properties
-/essential/screenshot-cache/
-/essential/screenshot-metadata/
-/local/ftbchunks/
-/local/crash_assistant/
-/config/ars_nouveau/search_index/
-/config/spark/tmp/
-/config/spark/tmp-client/
+# Minecraft assets
+assets/
+AssetCache/
 
-.probe
+# Native libraries
+natives/
+native/
 
-config\ftbchunks-client.snbt
-config\ftbchunks-world.snbt
-config\ftbessentials.snbt
-config\ftblibrary-client.snbt
-config\ftbquests-client.snbt
-config\ftbultimine-client.snbt
-config\ftbultimine-server.snbt
-config/ftbchunks-client.snbt
-config/fastbench.cfg
-config/worldedit
-spark-modernfix/tmp/about.txt
-mods/botanymodtrees-1.1.0-neoforge-1.21.1.jar.disabled
-mods/hostile_neural_industrialization-1.0.7-1.21.1.jar.disabled
-command_history.txt
-config/ftbchunks-client.snbt
-config/commandaliases.txt
+# ====================
+# VERSION CONTROL
+# ====================
 
-dynamic-data-pack-cache/hash.txt
-dynamic-resource-pack-cache/hash.txt
-command_history.txt
+# Backups
+backups/
+backup/
+*.backup
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+*.7z
+# Exception for releases
+!releases/*.zip
+
+# ====================
+# PERFORMANCE & DEBUG
+# ====================
+
+# Performance logs
+spark/
+flamegraph/
+
+# Debug files
+*.hprof
+hs_err_*.log
+
+# Replay mod recordings (can be large)
+replay_recordings/
+replay_videos/
+
+# Screenshots (optional - usually want to keep)
+# screenshots/
+
+# ===================
+# LAUNCHER SPECIFIC
+# ===================
+
+# MultiMC/PrismLauncher
+instance.cfg
+mmc-pack.json
+.minecraft/
+
+# CurseForge
 minecraftinstance.json
-win_event1760301022504.txt
-win_event1760301022504.txt.old
-dynamic-data-pack-cache/hash.txt
-dynamic-data-pack-cache/supplementaries-generated_pack/data/supplementaries/recipe/way_sign_oak/cataclysm/chorus.json
-dynamic-data-pack-cache/supplementaries-generated_pack/data/supplementaries/recipe/way_sign_oak/scp_ultimate/scp_143.json
-dynamic-data-pack-cache/supplementaries-generated_pack/data/supplementaries/tags/item/way_signs.json
-dynamic-resource-pack-cache/hash.txt
-config/jei/world/local/Map__1/bookmarks.json
-config/jei/world/local/Map__1/lookupHistory.json
+manifest.json
+
+# Technic
+modpack.yml
+
+# ATLauncher
+config.json
+
+# ================
+# MOD-SPECIFIC
+# ================
+
+# Applied Energistics 2
+ae2/
+
+# Mekanism
+mekanism_saved_data/
+
+# JourneyMap
+journeymap/
+# Keep configs but not map data
+!journeymap/*.cfg
+!journeymap/config/
+
+# FTB
+ftbbackups/
+ftbbackups2/
+
+# Xaero's Minimap/Worldmap
+XaeroWaypoints/
+XaeroWorldMap/
+
+# Litematica
+schematics/
+
+# World Edit
+worldedit/
+
+# ===============
+# WHAT TO INCLUDE
+# ===============
+
+# These should be tracked:
+# - config/ (mod configurations)
+# - kubejs/ (custom scripts)
+# - defaultconfigs/ (default configs for servers)
+# - mods/mods-list.txt (mod list for reference)
+# - README.md
+# - LICENSE
+# - .gitignore (this file!)
+
+# Keep empty directories
+!**/.gitkeep
+crash-reports/
+*cache/
+essential/
+
+mods/*.jar
+dynamic-data-pack-cache/
+dynamic-resource-pack-cache/
+spark-modernfix/tmp/about.txt

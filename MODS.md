@@ -9,6 +9,7 @@
 
 ## 📋 Mods List
 
+<!-- MODS_LIST_START -->
 - [AdvancedAE](https://www.curseforge.com/minecraft/mc-mods/advancedae) (by pedroksl)
 - [AE2 Things](https://www.curseforge.com/minecraft/mc-mods/ae2-things-forge) (by DarkGuardsman)
 - [AE2 CraftTweaker Integration](https://www.curseforge.com/minecraft/mc-mods/ae2-crafttweaker-integration) (by AlgorithmX2)
@@ -224,6 +225,7 @@
 - [WaterMedia](https://www.curseforge.com/minecraft/mc-mods/watermedia) (by SrRapero720)
 - [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones) (by BlayTheNinth)
 - [XyCraft Core](https://www.curseforge.com/minecraft/mc-mods/xycraft-core) (by Soaryn)
+<!-- MODS_LIST_END -->
 
 ---
 

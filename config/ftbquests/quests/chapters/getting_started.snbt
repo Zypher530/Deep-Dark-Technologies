@@ -82,7 +82,7 @@
 			id: "6512335BFD8C907F"
 			tasks: [{
 				id: "2844E1FABD953F1C"
-				item: { count: 1, id: "deeperdarker:sculk_tendrils" }
+				item: { count: 1, id: "kubejs:sculk_string" }
 				type: "item"
 			}]
 			x: 1.0d
