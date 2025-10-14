@@ -1,0 +1,5 @@
+// Compost colors for mdm. You may add your own colors, change existing ones, or remove colors that aren't needed.
+black_office_desk, #4d4d4e
+furniture_parts, #d3c59b
+induction_cooker, #c0c0c
+toilet_paper_roll, #d4d0d2
