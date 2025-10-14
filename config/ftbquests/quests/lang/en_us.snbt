@@ -1,8 +1,6 @@
 {
 	chapter.021D93C62F3EB1BA.title: "Basic tips"
 	chapter.075C8424D971EBC3.title: "Getting started"
-	quest.0AD59806E9C2240F.quest_desc: ["Our reaserchers noted that interacting with sculk will provide with soul dust. You will need that for further progression TODO"]
-	quest.0AD59806E9C2240F.quest_subtitle: "Soul extract ?"
 	quest.1514716B517B5567.quest_desc: [
 		"Hello,"
 		"this is the prometheum facility. A once promissing lab gone caput  for unknown reasons."
@@ -10,4 +8,7 @@
 	]
 	quest.1514716B517B5567.quest_subtitle: "Where am I?"
 	quest.1514716B517B5567.title: "Welcome"
+	quest.7624EA8EB994CEB3.title: "Extracting Souls"
+	reward.5C8282C696C40EE7.title: "new room"
+	reward_table.52EB6F71EDF082BE.title: "Starting items"
 }

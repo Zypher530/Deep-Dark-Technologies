@@ -88,5 +88,30 @@
 			x: 1.0d
 			y: 2.0d
 		}
+		{
+			id: "164FE7A9300AEC93"
+			rewards: [
+				{
+					auto: "enabled"
+					command: "/setblock 6 30 -17 minecraft:redstone_torch"
+					id: "5C8282C696C40EE7"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "enabled"
+					command: "/setblock 6 30 -21 minecraft:redstone_torch"
+					id: "1BDEE7E55AF8AF36"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "49498FB553BEFC83"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: 3.5d
+		}
 	]
 }

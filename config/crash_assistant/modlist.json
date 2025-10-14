@@ -866,6 +866,11 @@
     "modId": "olddraconicmodels",
     "version": "1.0.1"
   },
+  "oracle_index-neoforge-0.4.1.jar": {
+    "jarName": "oracle_index-neoforge-0.4.1.jar",
+    "modId": "oracle_index",
+    "version": "0.4.1"
+  },
   "oritech-neoforge-1.21.1-0.18.2.jar": {
     "jarName": "oritech-neoforge-1.21.1-0.18.2.jar",
     "modId": "oritech",

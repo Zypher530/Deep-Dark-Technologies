@@ -31,7 +31,6 @@ ServerEvents.recipes(event => {
         Item.of('kubejs:sculk_string', 2),
         //ingredients
         Item.of('kubejs:sculk_fiber', 4)
-        //TODO: change string into a more fitting item (like sculk fiber or something)
     )
     
     event.shapeless(
@@ -49,7 +48,7 @@ ServerEvents.recipes(event => {
 
 
 
-    event.smelting( 'deeperdarker:soul_dust','deeperdarker:soul_crystal')
+    event.smelting('deeperdarker:soul_crystal', 'deeperdarker:soul_dust')
     .xp(0.1);
 
 
