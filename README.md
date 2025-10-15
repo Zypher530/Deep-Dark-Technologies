@@ -32,19 +32,6 @@ This is **NOT** a kitchen sink pack. Every mod serves the story. Every room unlo
 - No open-world survival—pure focused progression
 - Custom-built facility map (coming soon)
 
-### 🚀 **Space Travel Endgame**
-- Build your escape vessel piece by piece
-- Integrate all learned technologies
-- Final launch sequence to reach the stars
-- Victory is earned, not given
-
-### ⚙️ **Tech-Focused Gameplay**
-- 19 Applied Energistics 2 addons for advanced automation
-- Full Mekanism suite for industrial processing
-- Draconic Evolution for end-game power
-- Integrated Dynamics for complex logic systems
-- Modern automation with sophisticated storage solutions
-
 ### 🎯 **Balanced Challenge**
 - No resource generation without work
 - Ex Deorum for controlled early-game resources
@@ -72,63 +59,7 @@ This is **NOT** a kitchen sink pack. Every mod serves the story. Every room unlo
 
 ---
 
-## 🔧 Mod Highlights
-
-### Storage & Automation 
-- **Applied Energistics 2** + 19 expansions - The facility's digital brain
-- **Integrated Dynamics** - Complex logic and automation
-- **Super Factory Manager** - Advanced item routing
-- **Sophisticated Storage** - Expandable storage solutions
-
-### Technology & Power 
-- **Mekanism** - Industrial processing and power generation
-- **Draconic Evolution** - End-game energy and tools
-- **Powah** - Efficient power systems
-- **Nuclear Science** - Nuclear reactor technology
-- **Flux Networks** - Wireless energy distribution
-
-### Quality of Life 
-- **JEI** - Recipe viewer with modified recipes
-- **FTB Quests** - Story and progression guide
-- **Building Gadgets 2** - Tools for facility expansion
-- **Mouse Tweaks** - Inventory management
-- **Jade** - Block information
-
-### Performance 
-- **Sodium** - Rendering optimization
-- **ModernFix** - Performance improvements
-- **Ferrite Core** - Memory optimization
-- Runs smoothly even with 200+ mods!
-
-**[View Complete Mod List](MODS.md)**
-
----
-
-## 🎨 Unique Features
-
-### No Traditional Mining
-- All resources generated through technology
-- Ex Deorum for early materials
-- Automated systems for bulk production
-- Mekanism processing for multiplication
-
-### Locked Progression
-- Mods are gated behind quest completion
-- Can't craft advanced items without unlocking chambers
-- Natural difficulty curve
-- No way to skip content
-
-### Custom Map
-- Hand-built underground facility (in development)
-- Each chamber themed to its technology
-- Atmospheric lighting and design
-- Immersive lore throughout
-
-### Space Theme
-- Everything builds toward ship construction
-- Cosmic technologies in final tiers
-- Launch sequence climax
-- Victory dimension (planned)
+###**[View Complete Mod List](MODS.md)**
 
 ---
 
@@ -171,17 +102,11 @@ Found a bug? [Open an issue](https://github.com/Zypher530/Deep-Dark-Technologies
 
 ## 📊 System Requirements
 
-### Minimum
+### Recomended
 - **CPU**: Intel i5-8400 / AMD Ryzen 5 2600
 - **RAM**: 8GB allocated to Minecraft
 - **GPU**: Integrated graphics (with Sodium)
 - **Storage**: 2GB free space
-
-### Recommended
-- **CPU**: Intel i7-9700K / AMD Ryzen 7 3700X
-- **RAM**: 10GB allocated to Minecraft
-- **GPU**: GTX 1060 / RX 580 or better
-- **Storage**: 4GB free space (SSD recommended)
 
 ---
 
@@ -194,15 +119,6 @@ Found a bug? [Open an issue](https://github.com/Zypher530/Deep-Dark-Technologies
 - All mod developers whose incredible work makes this possible
 - The NeoForge team for the excellent mod loader
 - The Minecraft modding community
-
-### Major Mod Authors
-- Applied Energistics 2 Team
-- Mekanism Team
-- Brandon's Core & Draconic Evolution
-- FTB Team
-- And 100+ other amazing developers!
-
-**[Full mod credits and licenses](MODS.md)**
 
 ---
 
