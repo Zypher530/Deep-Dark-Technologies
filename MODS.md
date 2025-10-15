@@ -1,9 +1,9 @@
 # Deep Dark Technologies - Complete Mod List
 
-**Total Mods:** 210  
+**Total Mods:** 232  
 **Minecraft Version:** 1.21.1  
 **Mod Loader:** NeoForge 21.1.x  
-**Last Updated:** October 12, 2025
+**Last Updated:** October 15, 2025
 
 ---
 
@@ -22,6 +22,7 @@
 - [AE2 Wireless Terminal Library](https://www.curseforge.com/minecraft/mc-mods/ae2wtlib) (by 62832)
 - [AE Infinity Booster](https://www.curseforge.com/minecraft/mc-mods/aeinfinitybooster) (by hexeptiondev)
 - [AE Universal Press](https://www.curseforge.com/minecraft/mc-mods/ae-universal-press) (by matix931)
+- [All The Compatibility](https://www.curseforge.com/minecraft/mc-mods/all-the-compatibility) (by AllTheMods)
 - [AllTheCompressed](https://www.curseforge.com/minecraft/mc-mods/allthecompressed) (by Pdiddy973)
 - [AllTheLeaks (Memory Leak Fix)](https://www.curseforge.com/minecraft/mc-mods/alltheleaks) (by Uncandango)
 - [All The Ores](https://www.curseforge.com/minecraft/mc-mods/alltheores) (by ATMTeam)
@@ -33,31 +34,42 @@
 - [Ars Energistique](https://www.curseforge.com/minecraft/mc-mods/ars-energistique) (by ninety)
 - [Ars Additions](https://www.curseforge.com/minecraft/mc-mods/ars-additions) (by Jarva)
 - [Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau) (by baileyholl2)
+- [All The Compatibility](https://www.curseforge.com/minecraft/mc-mods/all-the-compatibility) (by AllTheMods)
 - [Athena](https://www.curseforge.com/minecraft/mc-mods/athena) (by CodexAdrian)
 - [AuthMe](https://www.curseforge.com/minecraft/mc-mods/auth-me) (by Mrbysco)
 - [Avaritia Lite](https://www.curseforge.com/minecraft/mc-mods/avaritia-lite-fabric) (by Sworroo)
 - [Balm](https://www.curseforge.com/minecraft/mc-mods/balm) (by BlayTheNinth)
 - [Baubley Heart Canisters](https://www.curseforge.com/minecraft/mc-mods/baubley-heart-canisters) (by traverse_joe)
-- [Better Mod List](https://www.curseforge.com/minecraft/mc-mods/better-modlist) (by Unknown)
+- [Better Mod List](https://www.curseforge.com/minecraft/mc-mods/better-modlist) (by 1foxy2)
+- [BetterF3](https://www.curseforge.com/minecraft/mc-mods/betterf3) (by cominixo)
+- [BetterF3](https://www.curseforge.com/minecraft/mc-mods/betterf3) (by cominixo)
 - [Blocks You Need Luna](https://www.curseforge.com/minecraft/mc-mods/blocks-you-need) (by Tfarcenim)
 - [Bookshelf](https://www.curseforge.com/minecraft/mc-mods/bookshelf) (by DarkhaxDev)
 - [Botany Pots](https://www.curseforge.com/minecraft/mc-mods/botany-pots) (by DarkhaxDev)
+- [Botany Trees](https://www.curseforge.com/minecraft/mc-mods/botany-trees) (by DarkhaxDev)
+- [Botany Trees](https://www.curseforge.com/minecraft/mc-mods/botany-trees) (by DarkhaxDev)
 - [Brandon's Core](https://www.curseforge.com/minecraft/mc-mods/brandons-core) (by brandon3055)
+- [Builder's Palette](https://www.curseforge.com/minecraft/mc-mods/builders-palette) (by Tfarcenim)
 - [Building Gadgets 2](https://www.curseforge.com/minecraft/mc-mods/building-gadgets-2) (by Direwolf20)
+- [Camol](https://www.curseforge.com/minecraft/mc-mods/camol) (by Ellemes)
+- [CFM Workshop and Pack](https://www.curseforge.com/minecraft/mc-mods/cfm-wap) (by MrCrayfish)
 - [Chipped](https://www.curseforge.com/minecraft/mc-mods/chipped) (by terrariumearth)
 - [Chisel Reborn](https://www.curseforge.com/minecraft/mc-mods/chisel-reborn) (by Slaincow)
 - [Chunk Sending](https://www.curseforge.com/minecraft/mc-mods/chunksending) (by someaddon)
 - [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config) (by shedaniel)
 - [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) (by Jaredlll08)
 - [CodeChicken Lib 1.8.+](https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8) (by covers1624)
+- [Command Alias](https://www.curseforge.com/minecraft/mc-mods/command-alias) (by Ellemes)
 - [Common Capabilities](https://www.curseforge.com/minecraft/mc-mods/common-capabilities) (by kroeser)
 - [Compact Machines](https://www.curseforge.com/minecraft/mc-mods/compact-machines) (by davenonymous)
 - [Configuration](https://www.curseforge.com/minecraft/mc-mods/configuration) (by Fuzs)
 - [Configured](https://www.curseforge.com/minecraft/mc-mods/configured) (by MrCrayfish)
 - [Connectivity](https://www.curseforge.com/minecraft/mc-mods/connectivity) (by someaddon)
+- [Construction Stick](https://www.curseforge.com/minecraft/mc-mods/construction-stick) (by meowing_cat)
 - [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling) (by Jaredlll08)
 - [CoroutilLib](https://www.curseforge.com/minecraft/mc-mods/coroutil) (by Corosus)
 - [Crafting Tweaks](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks) (by BlayTheNinth)
+- [CraftTweaker](https://www.curseforge.com/minecraft/mc-mods/crafttweaker) (by Jaredlll08)
 - [Crash Assistant](https://www.curseforge.com/minecraft/mc-mods/crash-assistant) (by KostromDan)
 - [CreativeCore](https://www.curseforge.com/minecraft/mc-mods/creativecore) (by CreativeMD)
 - [Cryonic Config](https://www.curseforge.com/minecraft/mc-mods/cryonicconfig) (by slainlite)
@@ -69,6 +81,7 @@
 - [Deeper and Darker](https://www.curseforge.com/minecraft/mc-mods/deeperdarker) (by KyaniteMods)
 - [Dimensional Storage](https://www.curseforge.com/minecraft/mc-mods/dimstorage) (by 3divad99)
 - [Draconic Evolution](https://www.curseforge.com/minecraft/mc-mods/draconic-evolution) (by brandon3055)
+- [Durability Tooltip](https://www.curseforge.com/minecraft/mc-mods/durability-tooltip) (by Giselbaer)
 - [MmmMmmMmmMmm (Target Dummy)](https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm) (by MehVahdJukaar)
 - [Easy Villagers](https://www.curseforge.com/minecraft/mc-mods/easy-villagers) (by henkelmax)
 - [EdivadLib](https://www.curseforge.com/minecraft/mc-mods/edivadlib) (by 3divad99)
@@ -92,6 +105,7 @@
 - [Fast IP Ping](https://www.curseforge.com/minecraft/mc-mods/fast-ip-ping) (by Fallen_Breath)
 - [Fast Async World Save](https://www.curseforge.com/minecraft/mc-mods/fastasyncworldsave) (by someaddon)
 - [FastFurnace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace) (by Shadows_of_Fire)
+- [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench) (by Shadows_of_Fire)
 - [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore) (by malte0811)
 - [Flux Networks](https://www.curseforge.com/minecraft/mc-mods/flux-networks) (by sonar_sonic)
 - [FramedBlocks](https://www.curseforge.com/minecraft/mc-mods/framedblocks) (by XFactHD)
@@ -114,6 +128,7 @@
 - [Handcrafted](https://www.curseforge.com/minecraft/mc-mods/handcrafted) (by terrariumearth)
 - [Hostile Neural Networks](https://www.curseforge.com/minecraft/mc-mods/hostile-neural-networks) (by Shadows_of_Fire)
 - [Hostile Neural Industrialization](https://www.curseforge.com/minecraft/mc-mods/hostile-neural-industrialization) (by Lgmrszd)
+- [Horror Blocks and Items for Maps](https://www.curseforge.com/minecraft/mc-mods/horror-blocks-and-items-for-maps) (by Peanutoilman)
 - [Iceberg](https://www.curseforge.com/minecraft/mc-mods/iceberg) (by Grend_G)
 - [Industrialization Overdrive](https://www.curseforge.com/minecraft/mc-mods/industrialization-overdrive) (by Lgmrszd)
 - [Integrated Crafting](https://www.curseforge.com/minecraft/mc-mods/integrated-crafting) (by kroeser)
@@ -124,8 +139,10 @@
 - [Integrated Tunnels](https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels) (by kroeser)
 - [I Requesting](https://www.curseforge.com/minecraft/mc-mods/irequesting) (by Lgmrszd)
 - [Iris Shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders) (by coderbot)
+- [Item Zoom](https://www.curseforge.com/minecraft/mc-mods/itemzoom) (by Giselbaer)
 - [Jade 🔍](https://www.curseforge.com/minecraft/mc-mods/jade) (by Snownee)
 - [Jade Addons](https://www.curseforge.com/minecraft/mc-mods/jade-addons-forge) (by Curodenz)
+- [JEED (Just Enough Effect Descriptions)](https://www.curseforge.com/minecraft/mc-mods/jeed) (by Ellemes)
 - [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei) (by mezz)
 - [Just Dire Things](https://www.curseforge.com/minecraft/mc-mods/just-dire-things) (by Direwolf20)
 - [Just Enough Resources (JER)](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer) (by way2muchnoise)
@@ -137,8 +154,8 @@
 - [Kotlin for Forge](https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge) (by thedarkcolour)
 - [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs) (by LatvianModder)
 - [KubeJS Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/kubejs-ars-nouveau) (by Alexthw)
-- [KubeJS Draconic Evolution](https://www.curseforge.com/minecraft/mc-mods/kubejs-draconic) (by Unknown)
-- [KubeJS Powah](https://www.curseforge.com/minecraft/mc-mods/kubejs-powah) (by Unknown)
+- [KubeJS Draconic Evolution](https://www.curseforge.com/minecraft/mc-mods/kubejs-draconic) (by Spedwards)
+- [KubeJS Powah](https://www.curseforge.com/minecraft/mc-mods/kubejs-powah) (by Lytho)
 - [LDLib](https://www.curseforge.com/minecraft/mc-mods/ldlib) (by GregTech Team)
 - [Lionfish API](https://www.curseforge.com/minecraft/mc-mods/lionfish-api) (by mcl_ender)
 - [Little Frames](https://www.curseforge.com/minecraft/mc-mods/little-frames) (by CreativeMD)
@@ -153,6 +170,7 @@
 - [Macaw's Furniture](https://www.curseforge.com/minecraft/mc-mods/macaws-furniture) (by sketch_macaw)
 - [Macaw's Windows](https://www.curseforge.com/minecraft/mc-mods/macaws-windows) (by sketch_macaw)
 - [Macaw's Trapdoors](https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors) (by sketch_macaw)
+- [Many Different Mobs](https://www.curseforge.com/minecraft/mc-mods/many-different-mobs) (by BigBull)
 - [MEGA Cells](https://www.curseforge.com/minecraft/mc-mods/mega-cells) (by ninety)
 - [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism) (by bradyaidanc)
 - [Mekanism Generators](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators) (by bradyaidanc)
@@ -170,11 +188,12 @@
 - [Modular Machinery Reborn](https://www.curseforge.com/minecraft/mc-mods/modular-machinery-reborn) (by alec_016)
 - [Moonlight Lib](https://www.curseforge.com/minecraft/mc-mods/selene) (by MehVahdJukaar)
 - [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) (by YaLTeR)
-- [Mystical Trees](https://www.curseforge.com/minecraft/mc-mods/mystical-trees) (by Unknown)
+- [Mystical Trees](https://www.curseforge.com/minecraft/mc-mods/mystical-trees) (by MrEizy)
 - [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) (by Aizistral)
 - [Nuclear Science](https://www.curseforge.com/minecraft/mc-mods/nuclear-science) (by 9Minecraft)
 - [OctoLib](https://www.curseforge.com/minecraft/mc-mods/octo-lib) (by SSKirillSS)
 - [Old Draconic Models](https://www.curseforge.com/minecraft/mc-mods/old-draconic-models) (by brandon3055)
+- [Oracle Index](https://www.curseforge.com/minecraft/mc-mods/oracle-index) (by slainlite)
 - [Oritech](https://www.curseforge.com/minecraft/mc-mods/oritech) (by Rearth)
 - [Oritech Things](https://www.curseforge.com/minecraft/mc-mods/oritech-things) (by Cephetir)
 - [Owo Lib](https://www.curseforge.com/minecraft/mc-mods/owo-lib) (by glisco)
@@ -184,9 +203,10 @@
 - [Polymorphic Energistics](https://www.curseforge.com/minecraft/mc-mods/polymorphic-energistics) (by ninety)
 - [Polymorph](https://www.curseforge.com/minecraft/mc-mods/polymorph) (by TheIllusiveC4)
 - [Portable Crafting Table](https://www.curseforge.com/minecraft/mc-mods/portable-crafting-table) (by Edivad99)
-- [Potentials](https://www.curseforge.com/minecraft/mc-mods/potentials) (by Unknown)
+- [Potentials](https://www.curseforge.com/minecraft/mc-mods/potentials) (by Fej1Fun)
 - [Powah! (Rearchitected)](https://www.curseforge.com/minecraft/mc-mods/powah-rearchitected) (by thetechnici4n)
 - [Prickle](https://www.curseforge.com/minecraft/mc-mods/prickle) (by DarkhaxDev)
+- [ProbeJS](https://www.curseforge.com/minecraft/mc-mods/probejs) (by Prunoideae)
 - [Productive Metal Works](https://www.curseforge.com/minecraft/mc-mods/productive-metalworks) (by LobsterJonn)
 - [Radium](https://www.curseforge.com/minecraft/mc-mods/radium-reforged) (by CaffeineMC)
 - [Reese's Sodium Options](https://www.curseforge.com/minecraft/mc-mods/reeses-sodium-options) (by FlashyReese)
@@ -194,8 +214,8 @@
 - [Relics](https://www.curseforge.com/minecraft/mc-mods/relics-mod) (by SSKirillSS)
 - [Resourceful Lib](https://www.curseforge.com/minecraft/mc-mods/resourceful-lib) (by ThatGravyBoat)
 - [Rhino](https://www.curseforge.com/minecraft/mc-mods/rhino) (by LatvianModder)
-- [SCP: Ultimate](https://www.curseforge.com/minecraft/mc-mods/scp-ultimate) (by Unknown)
 - [Searchables](https://www.curseforge.com/minecraft/mc-mods/searchables) (by Jaredlll08)
+- [SecurityCraft](https://www.curseforge.com/minecraft/mc-mods/security-craft) (by Geforce)
 - [Simply Light](https://www.curseforge.com/minecraft/mc-mods/simply-light) (by Flanks255)
 - [Smooth Chunk](https://www.curseforge.com/minecraft/mc-mods/smoothchunk) (by someaddon)
 - [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) (by IMS)
@@ -224,57 +244,9 @@
 - [Voltaic](https://www.curseforge.com/minecraft/mc-mods/voltaic) (by 9Minecraft)
 - [WaterMedia](https://www.curseforge.com/minecraft/mc-mods/watermedia) (by SrRapero720)
 - [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones) (by BlayTheNinth)
+- [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit) (by sk89q)
 - [XyCraft Core](https://www.curseforge.com/minecraft/mc-mods/xycraft-core) (by Soaryn)
 <!-- MODS_LIST_END -->
 
----
 
-## 📊 Mod Statistics
-
-**Total Mods:** 210
-
-### By Category
-- **Applied Energistics 2 & Addons:** 20 mods
-- **Technology & Industry:** 24 mods
-- **Magic & Spellcasting:** 3 mods
-- **Integrated Dynamics Suite:** 8 mods
-- **Storage & Organization:** 10 mods
-- **Quality of Life:** 29 mods
-- **Building & Decoration:** 13 mods
-- **Furniture & Aesthetics:** 8 mods
-- **Resources & World Generation:** 6 mods
-- **Performance & Optimization:** 15 mods
-- **Libraries & Core Mods:** 30+ mods
-- **FTB Suite:** 8 mods
-- **Utilities & Miscellaneous:** 35+ mods
-
----
-
-## 🔗 Quick Links
-
-- **Main Repository:** [Deep-Dark-Technologies](https://github.com/Zypher530/Deep-Dark-Technologies)
-- **Mods List File:** [mods-list.txt](https://github.com/Zypher530/Deep-Dark-Technologies/blob/main/mods/mods-list.txt)
-- **Issue Tracker:** [Report Bugs](https://github.com/Zypher530/Deep-Dark-Technologies/issues)
-
----
-
-## ℹ️ Version Information
-
-- **Minecraft:** 1.21.1
-- **Mod Loader:** NeoForge 21.1.x
-- **Java:** 21+
-
-All mods are tested and verified to work together without conflicts.
-
----
-
-## 📝 Notes
-
-- This list is automatically generated from the mods folder
-- All CurseForge links point to the official mod pages
-- Creator attribution is provided for each mod
-- For detailed mod descriptions and features, visit individual mod pages
-
----
-
-**Last Updated:** October 12, 2025
+**Last Updated:** October 15, 2025
