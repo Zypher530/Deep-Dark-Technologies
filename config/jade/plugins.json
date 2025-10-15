@@ -150,16 +150,13 @@
   "oritech": {
     "machine_core_controller": true
   },
-  "excompressum": {
-    "bait": true,
-    "auto_sieve": true,
-    "heavy_sieve": true,
-    "auto_hammer": true,
-    "wooden_crucible": true
-  },
   "modern_industrialization": {
     "overclock": true,
     "pipe": true
+  },
+  "occultism": {
+    "foliot": true,
+    "sacrificial": true
   },
   "balm": {
     "jade": true

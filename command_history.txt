@@ -1,50 +1,50 @@
-//replace #existing deepslate
-//replace deepslate
-//replace air deepslate
-//replace deepslate air
-//replace air
-//replace air deepslate ====
-//replace air deepslate
-//replace ##* deepslate
-//replace * deepslate
-//replace #existing deepslate
-//replace air deepslate
-//replace deepslate deepslate_ti
-//replace deepslate deepslate_tiles
+/setblock ~ ~ ~ builders_palette:deep_scarlett_tiles
+//replace air,deepslate_tiles 90%deepslate_tiles,7%cracked_deepslate_tiles,3%sculk
+//replace * 80%deepslate_tiles,10%cracked_deepslate_tiles,10%sculk
+//replace 80%deepslate_tiles,10%cracked_deepslate_tiles,10%sculk
+//replace 70%deepslate_tiles,17%cracked_deepslate_tiles,13%sculk
+//replace securitycraft:reinforced_deepslate_tiles
+//undo
+//redo
+//replace securitycraft:reinforced_deepslate_tiles
+//replace air securitycraft:reinforced_deepslate_tiles
+//replace air deepslate_tiles
+//replace 70%deepslate_tiles,17%cracked_deepslate_tiles,13%sculk
+//replace air 70%deepslate_tiles,17%cracked_deepslate_tiles,13%sculk
+/mek testrules
+//brush sphere sculk
+//brush sphere sculk 2
+//undo 5
+/mask #deepslate
+/mask deepslate_tiles,cracked_deepslate_tiles
+//undo 2
+/mask
+/mask air
+/tracemask #solid
+//size 3
+//smooth
+//undo 10
+//brush splatter 70%sculk,20%deeperdarker:sculk_stone,10%deeperdarker:cobbled_sculk_stone
+//undo 4
+//undo
+//brush splatter 2 70%sculk,20%deeperdarker:sculk_stone,10%deeperdarker:cobbled_sculk_stone
+//brush sphere 70%sculk,20%deeperdarker:sculk_stone,10%deeperdarker:cobbled_sculk_stone 2
+//undo 4
+//redo
+//brush sphere 70%sculk,20%deeperdarker:sculk_stone,10%deeperdarker:cobbled_sculk_stone 2s
+//brush set sphere 3 70%sculk,20%deeperdarker:sculk_stone,10%deeperdarker:cobbled_sculk_stone
+//undo
+/give majmaks minecraft:structure_block
+/give majmaks minecraft:structure_void
+/give majmaks minecraft:jigsaw
+/mek testrules
+/reload
 //wand
-//replace air ars_nouveau:sky_block
-//replace stone ars_nouveau:sky_block
-//replace deepslate deepslate_tiles
-//replace deepslate ars_nouveau:sky_block
-//replace deepslate deepslate_tiles
-/setblock 6 30 -17 minecraft:redstone_block
-/setblock 6 30 -17 minecraft:redstone_torch
-//replace deepslate white_concrete
+//replace deepslate_tiles 70%deepslate_tiles,30%cracked_deepslate_tiles
+//replace deeperdarker:infested_sculk sculk
 //replace air chipped:grill_white_concrete
-//cut
-//paste
-//undo
-//paste
-//undo
-//paste
-//undo
-//paste
-//undo
-//paste
-//undo
-//paste 26 31 1
-//paste
-//undo
-//paste
-//undo
-//paste
-//undo
-//paste
-//undo
-//paste
-//undo
-//paste
-//undo
-//paste
 //replace air white_concrete
-//replace stone chipped:grill_white_concrete
+//replace white_concrete 60%white_concrete,block
+//replace white_concrete 60%white_concrete,40%blocksyouneed_luna:white_striated_concrete
+//replace air
+/give majmaks lootr:lootr_chest

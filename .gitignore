@@ -266,3 +266,12 @@ spark-modernfix/tmp/about.txt
 config/ars_nouveau/search_index/
 config/jei/world/local/
 config/ftbchunks-client.snbt
+ESM/soundsMuffled.dat
+ESM/Actual Gen__/anchors.dat
+ESM/Map/anchors.dat
+ESM/Map 2/anchors.dat
+ESM/TESTING/anchors.dat
+ESM/map-/anchors.dat
+.mixin.out
+command_history.txt
+mods/

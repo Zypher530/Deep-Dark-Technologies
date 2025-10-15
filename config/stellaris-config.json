@@ -3,6 +3,7 @@
   "orbitTeleportationYCoord": -10.0,
   "radiationCheckInterval": 100,
   "rocketTpHeight": 600,
+  "landerExplodeWhenTooFast": false,
   "oilConfig": {
     "chunkOilChance": 16,
     "minOil": 10,
