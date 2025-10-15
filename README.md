@@ -7,6 +7,8 @@
 > *"Deep beneath the surface, humanity's last hope awaits. Master forgotten technologies, unlock sealed chambers, and build your escape to the stars."*
 
 ---
+## Releases
+- [v0.1.0-pre-alpha](https://github.com/Zypher530/Deep-Dark-Technologies/releases)
 
 ## 🌌 Overview
 
@@ -49,60 +51,6 @@ This is **NOT** a kitchen sink pack. Every mod serves the story. Every room unlo
 - Custom recipes enforce progression order
 - Can't skip ahead—master each tier first
 
----
-
-## 🎮 Gameplay Loop
-
-```
-START → The Hub (Section Zero)
-  ↓
-TIER 1: Foundation Technologies
-  → Resource Processing (Ex Deorum)
-  → Power Generation (Powah)
-  → Basic Storage (Drawers)
-  ↓
-TIER 2: Industrial Revolution  
-  → Mekanism Processing
-  → AE2 Network Control
-  → Advanced Power Systems
-  ↓
-TIER 3: High Technology
-  → Automated Crafting
-  → Nuclear Energy
-  → Quantum Computing
-  ↓
-TIER 4: Cosmic Preparation
-  → Draconic Evolution
-  → Antimatter Production
-  → Ship Construction
-  ↓
-FINAL: Launch Complex
-  → Assemble the Ark
-  → Power Up Systems
-  → ESCAPE TO THE STARS
-```
-
----
-
-## 📦 Installation
-
-### Requirements
-- **Minecraft**: 1.21.1
-- **Mod Loader**: NeoForge 21.1.209
-- **RAM**: 8GB minimum (8-10GB recommended)
-- **Java**: 21 or higher
-
-### CurseForge Installation (Coming Soon)
-1. Install CurseForge App
-2. Search "Deep Dark Technologies"
-3. Click Install
-4. Launch and play!
-
-### Manual Installation (Coming Soon)
-1. Install NeoForge 21.1.209 for Minecraft 1.21.1
-2. Download the modpack ZIP from [Releases](https://github.com/Zypher530/Deep-Dark-Technologies/releases)
-3. Extract to your Minecraft instance folder
-4. Launch with at least 8GB RAM allocated
 
 ---
 
