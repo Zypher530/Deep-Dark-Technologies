@@ -8,7 +8,7 @@
 
 ---
 ## Releases
-- [v0.1.0-pre-alpha](https://github.com/Zypher530/Deep-Dark-Technologies/releases)
+- *Comming soon*
 
 ## 🌌 Overview
 
