@@ -80,7 +80,7 @@
 	[quality_of_life.zoom]
 		smooth_zoom_animation = false
 		toggle_to_zoom = false
-		smooth_camera_when_zoomed = true
+		smooth_camera_when_zoomed = false
 
 	[quality_of_life.nameplate]
 		show_my_nameplate_in_third-person = true

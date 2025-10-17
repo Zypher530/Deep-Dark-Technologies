@@ -1,0 +1,47 @@
+{
+    "name": "ddt:main",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 50,
+            "element": {
+                "location": "ddt:halls/hallway1",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+
+        },
+        {
+            "weight": 45,
+            "element": {
+                "location": "ddt:halls/hallwaycorner",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+
+        },
+        {
+            "weight": 10,
+            "element": {
+                "location": "ddt:halls/hallway3way",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+
+        },
+        {
+            "weight": 10,
+            "element": {
+                "location": "ddt:halls/hallway_junction",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+
+        }
+
+    ]
+}

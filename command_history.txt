@@ -1,50 +1,50 @@
-/setblock ~ ~ ~ builders_palette:deep_scarlett_tiles
-//replace air,deepslate_tiles 90%deepslate_tiles,7%cracked_deepslate_tiles,3%sculk
-//replace * 80%deepslate_tiles,10%cracked_deepslate_tiles,10%sculk
-//replace 80%deepslate_tiles,10%cracked_deepslate_tiles,10%sculk
-//replace 70%deepslate_tiles,17%cracked_deepslate_tiles,13%sculk
-//replace securitycraft:reinforced_deepslate_tiles
-//undo
-//redo
-//replace securitycraft:reinforced_deepslate_tiles
-//replace air securitycraft:reinforced_deepslate_tiles
-//replace air deepslate_tiles
-//replace 70%deepslate_tiles,17%cracked_deepslate_tiles,13%sculk
-//replace air 70%deepslate_tiles,17%cracked_deepslate_tiles,13%sculk
-/mek testrules
-//brush sphere sculk
-//brush sphere sculk 2
-//undo 5
-/mask #deepslate
-/mask deepslate_tiles,cracked_deepslate_tiles
-//undo 2
-/mask
-/mask air
-/tracemask #solid
-//size 3
-//smooth
-//undo 10
-//brush splatter 70%sculk,20%deeperdarker:sculk_stone,10%deeperdarker:cobbled_sculk_stone
-//undo 4
-//undo
-//brush splatter 2 70%sculk,20%deeperdarker:sculk_stone,10%deeperdarker:cobbled_sculk_stone
-//brush sphere 70%sculk,20%deeperdarker:sculk_stone,10%deeperdarker:cobbled_sculk_stone 2
-//undo 4
-//redo
-//brush sphere 70%sculk,20%deeperdarker:sculk_stone,10%deeperdarker:cobbled_sculk_stone 2s
-//brush set sphere 3 70%sculk,20%deeperdarker:sculk_stone,10%deeperdarker:cobbled_sculk_stone
-//undo
-/give majmaks minecraft:structure_block
-/give majmaks minecraft:structure_void
-/give majmaks minecraft:jigsaw
-/mek testrules
 /reload
-//wand
-//replace deepslate_tiles 70%deepslate_tiles,30%cracked_deepslate_tiles
-//replace deeperdarker:infested_sculk sculk
-//replace air chipped:grill_white_concrete
-//replace air white_concrete
-//replace white_concrete 60%white_concrete,block
-//replace white_concrete 60%white_concrete,40%blocksyouneed_luna:white_striated_concrete
-//replace air
-/give majmaks lootr:lootr_chest
+/place jigsaw ddt:start start 7 ~ ~ ~
+/mek testrules
+/place template ddt:test_simple
+/place jigsaw ddt
+/reload
+/place jigsaw ddt:main start 5 ~ ~ ~
+/place template ddt:test_simple
+/place template ddt:spawn
+/place jigsaw ddt:main start 5 ~ ~ ~
+/reload
+/place jigsaw ddt:start spawn
+/place jigsaw ddt:start start 5 ~ ~ ~
+/reload
+/place jigsaw ddt:start start 5 ~ ~ ~
+/reload
+/place jigsaw ddt:start start 5 ~ ~ ~
+/reload
+/place jigsaw ddt:start start 5 ~ ~ ~
+/reload
+/place jigsaw ddt:start start 5 ~ ~ ~
+//replace white_concrete 70%white_concrete,30%blocksyouneed_luna:white_striated_concrete
+//copy
+//paste
+/reload
+/place template ddt:halls/hallwaystart
+/place jigsaw ddt:start
+/place jigsaw ddt:start start 7 ~ ~ ~
+/place template ddt:rooms/spawn
+/place jigsaw ddt:start start 7 ~ ~ ~
+/place jigsaw ddt:main hallway 7 ~ ~ ~
+/reload
+/place jigsaw ddt:main hallway 7 ~ ~ ~
+/place jigsaw ddt:start start 7 ~ ~ ~
+/reload
+/place jigsaw ddt:start start 7 ~ ~ ~
+/reload
+/place jigsaw ddt:start start 7 ~ ~ ~
+/place jigsaw ddt:start start 20 ~ ~ ~
+/place jigsaw ddt:start start 100 ~ ~ ~
+/place template ddt:hallway3way
+/place template ddt:hallway1
+/place jigsaw ddt:start start 7 ~ ~ ~
+/reload
+/place jigsaw ddt:start start 7 ~ ~ ~
+/reload
+/place jigsaw ddt:start start 7 ~ ~ ~
+/place template ddt:halls/deephall2
+/place jigsaw ddt:start start 7 ~ ~ ~
+/place jigsaw ddt:start start 20 ~ ~ ~
