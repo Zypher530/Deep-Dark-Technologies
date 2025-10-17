@@ -1,0 +1,55 @@
+{
+    "name": "ddt:stage1",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 5,
+            "element": {
+                "location": "ddt:halls/hallwaystart",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        },
+        {
+            "weight": 30,
+            "element": {
+                "location": "ddt:halls/deephall",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+
+        },
+        {
+            "weight": 30,
+            "element": {
+                "location": "ddt:halls/deephall2",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+
+        },
+        {
+            "weight": 10,
+            "element": {
+                "location": "ddt:rooms/fiery",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+
+        },
+        {
+            "weight": 10,
+            "element": {
+                "location": "ddt:rooms/spawn",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+
+        }
+    ]
+}
