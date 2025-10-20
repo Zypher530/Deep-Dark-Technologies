@@ -1,50 +1,50 @@
-/place jigsaw ddt:start start 7 ~ ~ ~
-/mek testrules
-/place template ddt:test_simple
-/place jigsaw ddt
-/reload
-/place jigsaw ddt:main start 5 ~ ~ ~
-/place template ddt:test_simple
-/place template ddt:spawn
-/place jigsaw ddt:main start 5 ~ ~ ~
-/reload
-/place jigsaw ddt:start spawn
-/place jigsaw ddt:start start 5 ~ ~ ~
-/reload
-/place jigsaw ddt:start start 5 ~ ~ ~
-/reload
-/place jigsaw ddt:start start 5 ~ ~ ~
-/reload
-/place jigsaw ddt:start start 5 ~ ~ ~
-/reload
-/place jigsaw ddt:start start 5 ~ ~ ~
-//replace white_concrete 70%white_concrete,30%blocksyouneed_luna:white_striated_concrete
+//set white_concrete
+//set air
+//set white_concrete
+//set air
+//set barrier
 //copy
 //paste
+//walls 33%deepslate,33%basalt,5%sculk,29%tuff
+//set
+//set chipped:grill_white_concrete
+//set air
+//set chipped:grill_white_concrete
+/summon minecraft:marker
+/kill @e[type=minecraft:marker]
+/place template ddt:room1
+/function ddt:generation/generation
+/function ddt:init/world_centre
+/tp -1000 42 -1000
+/place template ddt:room1
+/function ddt:generation/generation
+/function ddt:init/init
+/function ddt:init/rng
+/function ddt:init/rng_setup
+/function ddt:init/world_centre
+/place template ddt:room1
+/execute as @e[tag="world_center"] run say hello
+/execute as @e[tag=world_center] run say hello
+/execute at @e[tag=world_center] positioned ~23 ~-23 ~23
+/execute at @e[tag=world_center] positioned ~23 ~-23 ~23 run place template ddt:room1
+/function ddt:init/new_player
+/function ddt:generation/generation
+/function ddt:debug/show_node
+/function ddt:generation/generation
+/function ddt:debug/show_node
+/execute at @e[tag=room_node,sort=nearest,limit=1] run setblock ~24 ~-3 ~
+/execute at @e[tag=room_node,sort=nearest,limit=1] run setblock ~24 ~-3 ~ dirt
+/function ddt:debug/show_node
 /reload
-/place template ddt:halls/hallwaystart
-/place jigsaw ddt:start
-/place jigsaw ddt:start start 7 ~ ~ ~
-/place template ddt:rooms/spawn
-/place jigsaw ddt:start start 7 ~ ~ ~
-/place jigsaw ddt:main hallway 7 ~ ~ ~
-/reload
-/place jigsaw ddt:main hallway 7 ~ ~ ~
-/place jigsaw ddt:start start 7 ~ ~ ~
-/reload
-/place jigsaw ddt:start start 7 ~ ~ ~
-/reload
-/place jigsaw ddt:start start 7 ~ ~ ~
-/place jigsaw ddt:start start 20 ~ ~ ~
-/place jigsaw ddt:start start 100 ~ ~ ~
-/place template ddt:hallway3way
-/place template ddt:hallway1
-/place jigsaw ddt:start start 7 ~ ~ ~
-/reload
-/place jigsaw ddt:start start 7 ~ ~ ~
-/reload
-/place jigsaw ddt:start start 7 ~ ~ ~
-/place template ddt:halls/deephall2
-/place jigsaw ddt:start start 7 ~ ~ ~
-/place jigsaw ddt:start start 20 ~ ~ ~
-/place jigsaw ddt:start start 7 ~ ~ ~
+/function ddt:debug/show_node
+/function ddt:generation/generation
+/function ddt:debug/show_node
+/execute at @e[tag=room_node,sort=nearest,limit=1] run setblock ~24 ~-2 ~ dirt
+/function ddt:generation/generation
+/function ddt:debug/show_node
+/function ddt:generation/generation
+/function ddt:debug/show_node
+/function ddt:generation/generation
+/function ddt:generation/generation\
+/function ddt:generation/generation
+/function ddt:init/init

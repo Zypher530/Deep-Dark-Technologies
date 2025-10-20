@@ -1,0 +1,1 @@
+execute if score generation generation matches 1 run function ddt:generation/step

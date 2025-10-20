@@ -1,0 +1,1 @@
+execute as @a if entity @p[tag=!has_joined] run function ddt:init/first_room_setup
