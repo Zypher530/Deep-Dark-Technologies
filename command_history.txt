@@ -1,50 +1,50 @@
-//set white_concrete
+//rotate 180
+//set chipped:grill_white_concrete
 //set air
+//set chipped:grill_white_concrete
 //set white_concrete
+//undo
+//set white_concrete
+//set 70%white_concrete,20%blocksyouneed_luna:white_striated_concrete,10%sculk
+//set chipped:grill_white_concrete\
+//set chipped:grill_white_concrete
+//set white_concrete
+//set chipped:grill_white_concrete
+//undo
+//set chipped:grill_white_concrete
+//set white_concrete
+//set chipped:grill_white_concrete
+//undo
+//set chipped:grill_white_concrete
 //set air
-//set barrier
+//set chipped:grill_white_concrete
+//set 70%white_concrete,20%blocksyouneed_luna:white_striated_concrete,10%sculk
+//set 70%white_concrete,20%blocksyouneed_luna:white_striated_concrete,10%sculk\
+//set 70%white_concrete,20%blocksyouneed_luna:white_striated_concrete,10%sculk
+//set 70%white_concrete,20%blocksyouneed_luna:white_striated_concrete,10%sculka
+//set 70%white_concrete,20%blocksyouneed_luna:white_striated_concrete,10%sculk
+//set 70%white_concrete,20%blocksyouneed_luna:white_striated_concrete,10%sculka
+//set 70%white_concrete,20%blocksyouneed_luna:white_striated_concrete,10%sculk
+//set 70%white_concrete,20%blocksyouneed_luna:white_striated_concrete,10%sculka
+//set 70%white_concrete,20%blocksyouneed_luna:white_striated_concrete,10%sculk
 //copy
 //paste
-//walls 33%deepslate,33%basalt,5%sculk,29%tuff
-//set
+//copy
+//paste
+//copy
+//paste
 //set chipped:grill_white_concrete
 //set air
+//set white_concrete
 //set chipped:grill_white_concrete
-/summon minecraft:marker
-/kill @e[type=minecraft:marker]
-/place template ddt:room1
-/function ddt:generation/generation
-/function ddt:init/world_centre
-/tp -1000 42 -1000
-/place template ddt:room1
-/function ddt:generation/generation
-/function ddt:init/init
-/function ddt:init/rng
-/function ddt:init/rng_setup
-/function ddt:init/world_centre
-/place template ddt:room1
-/execute as @e[tag="world_center"] run say hello
-/execute as @e[tag=world_center] run say hello
-/execute at @e[tag=world_center] positioned ~23 ~-23 ~23
-/execute at @e[tag=world_center] positioned ~23 ~-23 ~23 run place template ddt:room1
-/function ddt:init/new_player
-/function ddt:generation/generation
-/function ddt:debug/show_node
-/function ddt:generation/generation
-/function ddt:debug/show_node
-/execute at @e[tag=room_node,sort=nearest,limit=1] run setblock ~24 ~-3 ~
-/execute at @e[tag=room_node,sort=nearest,limit=1] run setblock ~24 ~-3 ~ dirt
-/function ddt:debug/show_node
+//set white_concrete
+//copy
+//flip east west
+//flip east
+//paste
+//flip north
+//paste
+//flip west
+//paste
 /reload
-/function ddt:debug/show_node
 /function ddt:generation/generation
-/function ddt:debug/show_node
-/execute at @e[tag=room_node,sort=nearest,limit=1] run setblock ~24 ~-2 ~ dirt
-/function ddt:generation/generation
-/function ddt:debug/show_node
-/function ddt:generation/generation
-/function ddt:debug/show_node
-/function ddt:generation/generation
-/function ddt:generation/generation\
-/function ddt:generation/generation
-/function ddt:init/init

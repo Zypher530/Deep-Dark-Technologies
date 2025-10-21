@@ -1,12 +1,7 @@
-scoreboard objectives add first_join dummy
+scoreboard objectives add first_gen dummy
+execute unless score first_gen first_gen matches 0 run place template ddt:stage1/eleveatorroom ~-23 ~-23 ~-23
 
+scoreboard players set first_gen first_gen 1
 
-
-
-
-execute at @e[type=minecraft:marker,tag=world_center] run tp @p[tag=!has_joined] ~ ~ ~
-
-execute at @e[type=minecraft:marker,tag=world_center] unless score first_join first_join matches 1 run place template ddt:room1 ~-23 ~-23 ~-23
-scoreboard players set first_join first_join 1
-
-execute as @p[tag=!has_joined] run tag @s add has_joined
+tp @a[tag=!first] @s
+execute as @a at @s run tag @a[tag=!first] add first

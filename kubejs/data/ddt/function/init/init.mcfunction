@@ -9,8 +9,10 @@ gamerule sendCommandFeedback true
 
 scoreboard objectives add generation dummy
 scoreboard objectives add sector dummy
+scoreboard objectives add first_join dummy
+
+
+
+scoreboard players set first_join first_join 1
 
 scoreboard players set generation generation 1
-
-#dev stuf disable for release
-execute as @e run effect give @s night_vision 1000000 0 true

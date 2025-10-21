@@ -1,0 +1,1 @@
+function ddt:generation/room_select/sector_gen/sector_gen_generic {rotation: "clockwise_90", x:-46, z:46}

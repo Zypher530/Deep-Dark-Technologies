@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:overworld",
+	"generator": {
+		"type": "minecraft:flat",
+		"settings": {
+			"biome": "ddt:deep_dark",
+			"lakes": false,
+			"features": false,
+			"layers": [
+				{
+					"height": 1,
+					"block": "minecraft:white_concrete"
+				}
+			]
+		}
+	}
+}
